@@ -1,0 +1,193 @@
+[
+  {
+    "id": "STA-KBG",
+    "code": "KBG",
+    "name": "Stasiun Kuala Bingai",
+    "short_name": "Kuala Bingai",
+    "city": "Kab. Langkat",
+    "type": "commuter",
+    "lon": 98.42899,
+    "lat": 3.70799,
+    "address": "Kuala Bingai, Kec. Stabat, Kab. Langkat",
+    "facilities": [
+      "Loket",
+      "Musholla",
+      "Toilet",
+      "Parkir"
+    ],
+    "lines": [
+      "commuter"
+    ],
+    "fares": {
+      "MDN": 7000,
+      "BIJ": 2000
+    },
+    "corridor_index": 0
+  },
+  {
+    "id": "STA-BIJ",
+    "code": "BIJ",
+    "name": "Stasiun Binjai",
+    "short_name": "Binjai",
+    "city": "Kota Binjai",
+    "type": "commuter",
+    "lon": 98.49793,
+    "lat": 3.60979,
+    "address": "Jl. Stasiun Binjai, Kec. Binjai Kota, Kota Binjai",
+    "facilities": [
+      "Loket",
+      "Musholla",
+      "Toilet",
+      "Ruang Tunggu",
+      "Parkir"
+    ],
+    "lines": [
+      "commuter"
+    ],
+    "fares": {
+      "MDN": 5000,
+      "KBG": 2000
+    },
+    "corridor_index": 80
+  },
+  {
+    "id": "STA-MDN",
+    "code": "MDN",
+    "name": "Stasiun Medan",
+    "short_name": "Medan",
+    "city": "Kota Medan",
+    "type": "junction",
+    "lon": 98.67985,
+    "lat": 3.59105,
+    "address": "Jl. Stasiun Kereta Api No. 1, Kesawan, Kec. Medan Barat",
+    "facilities": [
+      "City Railway Station (CRS)",
+      "Lobi Check-in Bandara",
+      "Vending Machine",
+      "ATM Center",
+      "Ruang VIP",
+      "Musholla",
+      "Toilet",
+      "Akses Langsung Lapangan Merdeka"
+    ],
+    "lines": [
+      "airport",
+      "commuter"
+    ],
+    "fares": {
+      "KNM": 50000,
+      "BAP": 10000,
+      "BTK": 20000,
+      "ARB": 35000,
+      "BIJ": 5000,
+      "KBG": 7000
+    },
+    "corridor_index": 228
+  },
+  {
+    "id": "STA-BAP",
+    "code": "BAP",
+    "name": "Stasiun Bandar Khalipah",
+    "short_name": "Bandar Khalipah",
+    "city": "Kab. Deli Serdang",
+    "type": "airport",
+    "lon": 98.75709,
+    "lat": 3.59394,
+    "address": "Bandar Khalipah, Kec. Percut Sei Tuan, Kab. Deli Serdang",
+    "facilities": [
+      "Loket",
+      "Musholla",
+      "Toilet",
+      "Ruang Tunggu",
+      "Parkir"
+    ],
+    "lines": [
+      "airport"
+    ],
+    "fares": {
+      "KNM": 50000,
+      "MDN": 10000
+    },
+    "corridor_index": 338
+  },
+  {
+    "id": "STA-BTK",
+    "code": "BTK",
+    "name": "Stasiun Batang Kuis",
+    "short_name": "Batang Kuis",
+    "city": "Kab. Deli Serdang",
+    "type": "airport",
+    "lon": 98.80077,
+    "lat": 3.61065,
+    "address": "Batang Kuis Pekan, Kec. Batang Kuis, Kab. Deli Serdang",
+    "facilities": [
+      "Loket",
+      "Musholla",
+      "Toilet",
+      "Ruang Tunggu"
+    ],
+    "lines": [
+      "airport"
+    ],
+    "fares": {
+      "KNM": 40000,
+      "MDN": 20000
+    },
+    "corridor_index": 388
+  },
+  {
+    "id": "STA-ARB",
+    "code": "ARB",
+    "name": "Stasiun Araskabu",
+    "short_name": "Araskabu",
+    "city": "Kab. Deli Serdang",
+    "type": "airport",
+    "lon": 98.8469,
+    "lat": 3.61454,
+    "address": "Aras Kabu, Kec. Beringin, Kab. Deli Serdang",
+    "facilities": [
+      "Loket",
+      "Musholla",
+      "Toilet",
+      "Ruang Tunggu"
+    ],
+    "lines": [
+      "airport"
+    ],
+    "fares": {
+      "KNM": 20000,
+      "MDN": 35000
+    },
+    "corridor_index": 468
+  },
+  {
+    "id": "STA-KNM",
+    "code": "KNM",
+    "name": "Stasiun Bandara Kualanamu",
+    "short_name": "Kualanamu",
+    "city": "Kab. Deli Serdang",
+    "type": "airport",
+    "lon": 98.87791,
+    "lat": 3.63435,
+    "address": "Airport Railway Station (ARS), Terminal Bandara Internasional Kualanamu Lt. 1",
+    "facilities": [
+      "Koneksi Langsung Terminal Kedatangan/Keberangkatan",
+      "E-Gate Railink",
+      "Customer Service",
+      "Waiting Lounge",
+      "Charging Station",
+      "Toilet",
+      "Musholla"
+    ],
+    "lines": [
+      "airport"
+    ],
+    "fares": {
+      "MDN": 50000,
+      "BAP": 50000,
+      "BTK": 40000,
+      "ARB": 20000
+    },
+    "corridor_index": 526
+  }
+]

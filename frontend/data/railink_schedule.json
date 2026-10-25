@@ -1,0 +1,1862 @@
+{
+  "agency": "PT Railink (KAI Bandara)",
+  "official_url": "https://www.railink.co.id/schedule",
+  "booking_url": "https://reservation.railink.co.id/",
+  "updated_at": "2024-06-01",
+  "services": [
+    {
+      "id": "airport",
+      "name": "KA Bandara Kualanamu",
+      "badge": "Railink Express",
+      "color": "#009aa6",
+      "fare_range": "Rp20.000 - Rp50.000",
+      "route_description": "Medan - Bandar Khalipah - Batang Kuis - Araskabu - Bandara Kualanamu"
+    },
+    {
+      "id": "commuter",
+      "name": "KA Sri Lelawangsa",
+      "badge": "Komuter",
+      "color": "#2563eb",
+      "fare_range": "Rp2.000 - Rp7.000",
+      "route_description": "Kuala Bingai - Binjai - Medan"
+    }
+  ],
+  "trips": [
+    {
+      "trip_id": "U72",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "05:00",
+      "arrival_time": "05:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "05:00",
+          "dep": "05:00"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "05:09",
+          "dep": "05:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "05:16",
+          "dep": "05:17"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "05:24",
+          "dep": "05:25"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "05:33",
+          "dep": "05:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U74",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "06:00",
+      "arrival_time": "06:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "06:00",
+          "dep": "06:00"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "06:09",
+          "dep": "06:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "06:16",
+          "dep": "06:17"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "06:24",
+          "dep": "06:25"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "06:33",
+          "dep": "06:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U76",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "07:15",
+      "arrival_time": "07:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "07:15",
+          "dep": "07:15"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "07:24",
+          "dep": "07:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "07:31",
+          "dep": "07:32"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "07:39",
+          "dep": "07:40"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "07:48",
+          "dep": "07:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U78",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "08:30",
+      "arrival_time": "09:03",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "08:30",
+          "dep": "08:30"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "08:39",
+          "dep": "08:40"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "08:46",
+          "dep": "08:47"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "08:54",
+          "dep": "08:55"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "09:03",
+          "dep": "09:03"
+        }
+      ]
+    },
+    {
+      "trip_id": "U80",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "09:45",
+      "arrival_time": "10:18",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "09:45",
+          "dep": "09:45"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "09:54",
+          "dep": "09:55"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "10:01",
+          "dep": "10:02"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "10:09",
+          "dep": "10:10"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "10:18",
+          "dep": "10:18"
+        }
+      ]
+    },
+    {
+      "trip_id": "U82",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "11:10",
+      "arrival_time": "11:43",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "11:10",
+          "dep": "11:10"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "11:19",
+          "dep": "11:20"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "11:26",
+          "dep": "11:27"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "11:34",
+          "dep": "11:35"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "11:43",
+          "dep": "11:43"
+        }
+      ]
+    },
+    {
+      "trip_id": "U84",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "12:30",
+      "arrival_time": "13:03",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "12:30",
+          "dep": "12:30"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "12:39",
+          "dep": "12:40"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "12:46",
+          "dep": "12:47"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "12:54",
+          "dep": "12:55"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "13:03",
+          "dep": "13:03"
+        }
+      ]
+    },
+    {
+      "trip_id": "U86",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "13:45",
+      "arrival_time": "14:18",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "13:45",
+          "dep": "13:45"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "13:54",
+          "dep": "13:55"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "14:01",
+          "dep": "14:02"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "14:09",
+          "dep": "14:10"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "14:18",
+          "dep": "14:18"
+        }
+      ]
+    },
+    {
+      "trip_id": "U88",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "15:00",
+      "arrival_time": "15:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "15:00",
+          "dep": "15:00"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "15:09",
+          "dep": "15:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "15:16",
+          "dep": "15:17"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "15:24",
+          "dep": "15:25"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "15:33",
+          "dep": "15:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U90",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "16:15",
+      "arrival_time": "16:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "16:15",
+          "dep": "16:15"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "16:24",
+          "dep": "16:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "16:31",
+          "dep": "16:32"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "16:39",
+          "dep": "16:40"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "16:48",
+          "dep": "16:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U92",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "17:35",
+      "arrival_time": "18:08",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "17:35",
+          "dep": "17:35"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "17:44",
+          "dep": "17:45"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "17:51",
+          "dep": "17:52"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "17:59",
+          "dep": "18:00"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "18:08",
+          "dep": "18:08"
+        }
+      ]
+    },
+    {
+      "trip_id": "U94",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_airport",
+      "direction_label": "Ke Bandara Kualanamu",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KNM",
+      "destination_name": "Stasiun Bandara Kualanamu",
+      "departure_time": "19:15",
+      "arrival_time": "19:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "19:15",
+          "dep": "19:15"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "19:24",
+          "dep": "19:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "19:31",
+          "dep": "19:32"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "19:39",
+          "dep": "19:40"
+        },
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "19:48",
+          "dep": "19:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U71",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "06:50",
+      "arrival_time": "07:23",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "06:50",
+          "dep": "06:50"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "06:59",
+          "dep": "07:00"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "07:07",
+          "dep": "07:08"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "07:14",
+          "dep": "07:15"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "07:23",
+          "dep": "07:23"
+        }
+      ]
+    },
+    {
+      "trip_id": "U73",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "08:00",
+      "arrival_time": "08:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "08:00",
+          "dep": "08:00"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "08:09",
+          "dep": "08:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "08:17",
+          "dep": "08:18"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "08:24",
+          "dep": "08:25"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "08:33",
+          "dep": "08:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U75",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "09:15",
+      "arrival_time": "09:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "09:15",
+          "dep": "09:15"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "09:24",
+          "dep": "09:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "09:32",
+          "dep": "09:33"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "09:39",
+          "dep": "09:40"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "09:48",
+          "dep": "09:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U77",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "10:30",
+      "arrival_time": "11:03",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "10:30",
+          "dep": "10:30"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "10:39",
+          "dep": "10:40"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "10:47",
+          "dep": "10:48"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "10:54",
+          "dep": "10:55"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "11:03",
+          "dep": "11:03"
+        }
+      ]
+    },
+    {
+      "trip_id": "U79",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "11:45",
+      "arrival_time": "12:18",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "11:45",
+          "dep": "11:45"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "11:54",
+          "dep": "11:55"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "12:02",
+          "dep": "12:03"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "12:09",
+          "dep": "12:10"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "12:18",
+          "dep": "12:18"
+        }
+      ]
+    },
+    {
+      "trip_id": "U81",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "13:00",
+      "arrival_time": "13:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "13:00",
+          "dep": "13:00"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "13:09",
+          "dep": "13:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "13:17",
+          "dep": "13:18"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "13:24",
+          "dep": "13:25"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "13:33",
+          "dep": "13:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U83",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "14:15",
+      "arrival_time": "14:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "14:15",
+          "dep": "14:15"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "14:24",
+          "dep": "14:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "14:32",
+          "dep": "14:33"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "14:39",
+          "dep": "14:40"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "14:48",
+          "dep": "14:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U85",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "15:30",
+      "arrival_time": "16:03",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "15:30",
+          "dep": "15:30"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "15:39",
+          "dep": "15:40"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "15:47",
+          "dep": "15:48"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "15:54",
+          "dep": "15:55"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "16:03",
+          "dep": "16:03"
+        }
+      ]
+    },
+    {
+      "trip_id": "U87",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "16:45",
+      "arrival_time": "17:18",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "16:45",
+          "dep": "16:45"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "16:54",
+          "dep": "16:55"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "17:02",
+          "dep": "17:03"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "17:09",
+          "dep": "17:10"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "17:18",
+          "dep": "17:18"
+        }
+      ]
+    },
+    {
+      "trip_id": "U89",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "18:00",
+      "arrival_time": "18:33",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "18:00",
+          "dep": "18:00"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "18:09",
+          "dep": "18:10"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "18:17",
+          "dep": "18:18"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "18:24",
+          "dep": "18:25"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "18:33",
+          "dep": "18:33"
+        }
+      ]
+    },
+    {
+      "trip_id": "U91",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "19:15",
+      "arrival_time": "19:48",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "19:15",
+          "dep": "19:15"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "19:24",
+          "dep": "19:25"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "19:32",
+          "dep": "19:33"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "19:39",
+          "dep": "19:40"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "19:48",
+          "dep": "19:48"
+        }
+      ]
+    },
+    {
+      "trip_id": "U93",
+      "service": "airport",
+      "train_name": "KA Bandara Kualanamu",
+      "route_code": "RL-AIRPORT",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KNM",
+      "origin_name": "Stasiun Bandara Kualanamu",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "20:30",
+      "arrival_time": "21:03",
+      "duration_min": 33,
+      "fare_idr": 50000,
+      "stops": [
+        {
+          "station_code": "KNM",
+          "station_name": "Stasiun Bandara Kualanamu",
+          "arr": "20:30",
+          "dep": "20:30"
+        },
+        {
+          "station_code": "ARB",
+          "station_name": "Stasiun Araskabu",
+          "arr": "20:39",
+          "dep": "20:40"
+        },
+        {
+          "station_code": "BTK",
+          "station_name": "Stasiun Batang Kuis",
+          "arr": "20:47",
+          "dep": "20:48"
+        },
+        {
+          "station_code": "BAP",
+          "station_name": "Stasiun Bandar Khalipah",
+          "arr": "20:54",
+          "dep": "20:55"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "21:03",
+          "dep": "21:03"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL01",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "05:30",
+      "arrival_time": "05:55",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "05:30",
+          "dep": "05:30"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "05:55",
+          "dep": "05:55"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL03",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KBG",
+      "origin_name": "Stasiun Kuala Bingai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "07:05",
+      "arrival_time": "07:45",
+      "duration_min": 40,
+      "fare_idr": 7000,
+      "stops": [
+        {
+          "station_code": "KBG",
+          "station_name": "Stasiun Kuala Bingai",
+          "arr": "07:05",
+          "dep": "07:05"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "07:17",
+          "dep": "07:20"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "07:45",
+          "dep": "07:45"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL05",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "08:45",
+      "arrival_time": "09:10",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "08:45",
+          "dep": "08:45"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "09:10",
+          "dep": "09:10"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL07",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "10:30",
+      "arrival_time": "10:55",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "10:30",
+          "dep": "10:30"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "10:55",
+          "dep": "10:55"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL09",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "12:15",
+      "arrival_time": "12:40",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "12:15",
+          "dep": "12:15"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "12:40",
+          "dep": "12:40"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL11",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "14:00",
+      "arrival_time": "14:25",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "14:00",
+          "dep": "14:00"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "14:25",
+          "dep": "14:25"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL13",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "15:45",
+      "arrival_time": "16:10",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "15:45",
+          "dep": "15:45"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "16:10",
+          "dep": "16:10"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL15",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "17:15",
+      "arrival_time": "17:40",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "17:15",
+          "dep": "17:15"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "17:40",
+          "dep": "17:40"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL17",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "KBG",
+      "origin_name": "Stasiun Kuala Bingai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "18:40",
+      "arrival_time": "19:20",
+      "duration_min": 40,
+      "fare_idr": 7000,
+      "stops": [
+        {
+          "station_code": "KBG",
+          "station_name": "Stasiun Kuala Bingai",
+          "arr": "18:40",
+          "dep": "18:40"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "18:52",
+          "dep": "18:55"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "19:20",
+          "dep": "19:20"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL19",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "20:15",
+      "arrival_time": "20:40",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "20:15",
+          "dep": "20:15"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "20:40",
+          "dep": "20:40"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL21",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_city",
+      "direction_label": "Ke Stasiun Medan",
+      "origin_code": "BIJ",
+      "origin_name": "Stasiun Binjai",
+      "destination_code": "MDN",
+      "destination_name": "Stasiun Medan",
+      "departure_time": "21:45",
+      "arrival_time": "22:10",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "21:45",
+          "dep": "21:45"
+        },
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "22:10",
+          "dep": "22:10"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL02",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "04:50",
+      "arrival_time": "05:15",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "04:50",
+          "dep": "04:50"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "05:15",
+          "dep": "05:15"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL04",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "06:20",
+      "arrival_time": "06:45",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "06:20",
+          "dep": "06:20"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "06:45",
+          "dep": "06:45"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL06",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "07:55",
+      "arrival_time": "08:20",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "07:55",
+          "dep": "07:55"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "08:20",
+          "dep": "08:20"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL08",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "09:35",
+      "arrival_time": "10:00",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "09:35",
+          "dep": "09:35"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "10:00",
+          "dep": "10:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL10",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "11:15",
+      "arrival_time": "11:40",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "11:15",
+          "dep": "11:15"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "11:40",
+          "dep": "11:40"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL12",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "13:00",
+      "arrival_time": "13:25",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "13:00",
+          "dep": "13:00"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "13:25",
+          "dep": "13:25"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL14",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "14:45",
+      "arrival_time": "15:10",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "14:45",
+          "dep": "14:45"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "15:10",
+          "dep": "15:10"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL16",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KBG",
+      "destination_name": "Stasiun Kuala Bingai",
+      "departure_time": "16:25",
+      "arrival_time": "17:05",
+      "duration_min": 40,
+      "fare_idr": 7000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "16:25",
+          "dep": "16:25"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "16:50",
+          "dep": "16:53"
+        },
+        {
+          "station_code": "KBG",
+          "station_name": "Stasiun Kuala Bingai",
+          "arr": "17:05",
+          "dep": "17:05"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL18",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "KBG",
+      "destination_name": "Stasiun Kuala Bingai",
+      "departure_time": "17:55",
+      "arrival_time": "18:35",
+      "duration_min": 40,
+      "fare_idr": 7000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "17:55",
+          "dep": "17:55"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "18:20",
+          "dep": "18:23"
+        },
+        {
+          "station_code": "KBG",
+          "station_name": "Stasiun Kuala Bingai",
+          "arr": "18:35",
+          "dep": "18:35"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL20",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "19:30",
+      "arrival_time": "19:55",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "19:30",
+          "dep": "19:30"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "19:55",
+          "dep": "19:55"
+        }
+      ]
+    },
+    {
+      "trip_id": "SL22",
+      "service": "commuter",
+      "train_name": "KA Sri Lelawangsa",
+      "route_code": "RL-SRI",
+      "direction": "to_binjai",
+      "direction_label": "Ke Binjai / Kuala Bingai",
+      "origin_code": "MDN",
+      "origin_name": "Stasiun Medan",
+      "destination_code": "BIJ",
+      "destination_name": "Stasiun Binjai",
+      "departure_time": "21:15",
+      "arrival_time": "21:40",
+      "duration_min": 25,
+      "fare_idr": 5000,
+      "stops": [
+        {
+          "station_code": "MDN",
+          "station_name": "Stasiun Medan",
+          "arr": "21:15",
+          "dep": "21:15"
+        },
+        {
+          "station_code": "BIJ",
+          "station_name": "Stasiun Binjai",
+          "arr": "21:40",
+          "dep": "21:40"
+        }
+      ]
+    }
+  ]
+}

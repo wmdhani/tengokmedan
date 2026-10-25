@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "aestheticDirection": "Smoked Obsidian & Frosted Daylight Glassmorphism",
+  "colorPalette": [
+    {
+      "name": "Glass Surface Base (Dark)",
+      "hex": "#0A0E17",
+      "role": "Floating HUD glass base tint (applied at 74% alpha with blur(22px) saturate(180%))"
+    },
+    {
+      "name": "Glass Surface Base (Light)",
+      "hex": "#FFFFFF",
+      "role": "Frosted Daylight HUD glass base tint (applied at 78% alpha with blur(22px) saturate(180%))"
+    },
+    {
+      "name": "Text Primary (Dark)",
+      "hex": "#F1F5F9",
+      "role": "Primary legibility hierarchy over smoked glass"
+    },
+    {
+      "name": "Text Secondary (Dark)",
+      "hex": "#94A3B8",
+      "role": "Secondary route labels, endpoints, and stop metadata"
+    },
+    {
+      "name": "Text Muted (Dark)",
+      "hex": "#64748B",
+      "role": "Tertiary captions and timestamps"
+    },
+    {
+      "name": "Accent Primary (Transit Blue)",
+      "hex": "#38BDF8",
+      "role": "Active mode tabs, corridor highlights, and focus rings"
+    },
+    {
+      "name": "Status Live (Emerald)",
+      "hex": "#10B981",
+      "role": "Live GPS telemetry indicator and active bus status"
+    },
+    {
+      "name": "Status CCTV (Amber)",
+      "hex": "#F59E0B",
+      "role": "ATCS traffic camera indicator and stream badge"
+    },
+    {
+      "name": "Status Danger (Rose)",
+      "hex": "#F43F5E",
+      "role": "Stream offline alert and Koridor 4 route color"
+    }
+  ],
+  "typography": {
+    "display": "Geist",
+    "body": "Geist",
+    "mono": "Geist Mono",
+    "scaleRatio": 1.15
+  },
+  "layoutPrinciples": [
+    "100% full-bleed map canvas (100vw x 100dvh) with zero edge-to-edge opaque chrome",
+    "Unified Floating Glass Dock (356px desktop left overlay; 3-tier swipeable floating glass bottom sheet on mobile)",
+    "Strict two-surface backdrop-filter budget (.transit-panel and .map-controls-rail only)"
+  ]
+}

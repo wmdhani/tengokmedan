@@ -1,0 +1,1298 @@
+{
+ "url": "frontend/index.html",
+ "at": "2026-10-19T16:46:45.712Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.99
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 900,
+     "screens": 1,
+     "words": 141,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 19,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 17,
+     "vw": 1.2,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 9,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "TengokMedan",
+     "words": 1,
+     "lines": 1,
+     "size": 17,
+     "font": "Geist"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono",
+       "share": 0.23,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 17,
+      "vw": 1.2,
+      "font": "Geist",
+      "text": "TengokMedan"
+     },
+     "monoShare": 0.23,
+     "monoProseShare": 0.23,
+     "monoFamilies": [
+      "Geist Mono"
+     ],
+     "monoSamples": [
+      "8 Armada Aktif",
+      "8",
+      "5",
+      "km/j",
+      "283",
+      "K4"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.02,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#08090d",
+     "bodyBgHsl": {
+      "h": 228,
+      "s": 0.24,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#08090d",
+       "top": 54,
+       "hsl": {
+        "h": 228,
+        "s": 0.24,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a3b8",
+       "share": 0.55
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.22
+      },
+      {
+       "color": "#f1f5f9",
+       "share": 0.2
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      },
+      {
+       "color": "#059669",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#22293a",
+      "hsl": {
+       "h": 222,
+       "s": 0.26,
+       "l": 0.18
+      },
+      "fg": "#f1f5f9"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 8,
+     "height": 34,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Semua"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "header.app-header 1440px",
+      "aside#bottom-sheet.transit-panel 380px",
+      "div.panel-search-wrap 379px",
+      "div.corridor-filter-wrap 379px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 8,
+     "boxRadius": 10,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.69
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 54,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist",
+     "geist mono"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 900,
+    "margins": {
+     "left": 20,
+     "right": 16
+    },
+    "sections": [],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TengokMedan",
+      "size": 17,
+      "top": 9,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 1
+     },
+     {
+      "x": 54,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 13,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "dark": true,
+    "ground": "#08090d",
+    "sidebar": null,
+    "topbar": {
+     "h": 54
+    },
+    "canvas": {
+     "left": 20,
+     "right": 16
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 17,
+     "vw": 1.2,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 9,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 1,
+     "firstScreen": 1,
+     "ragged": [],
+     "voids": []
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 9,
+     "radii": [
+      [
+       10,
+       8
+      ],
+      [
+       0,
+       1
+      ]
+     ],
+     "heavyBorders": 0,
+     "borderSamples": [],
+     "heavyShadows": 0,
+     "softShadows": 0,
+     "shadowSamples": [],
+     "glass": 0
+    },
+    "chips": {
+     "count": 2,
+     "hues": 1,
+     "samples": [
+      {
+       "hue": 218,
+       "size": 34,
+       "radius": "8px"
+      },
+      {
+       "hue": 218,
+       "size": 34,
+       "radius": "8px"
+      }
+     ]
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 1,
+     "tabularShare": 1,
+     "kpiMax": 16
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.14,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    },
+    "title": {
+     "text": "TengokMedan",
+     "size": 17,
+     "top": 9
+    },
+    "colourShare": 0.017
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    1
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1024,
+     "screens": 1,
+     "words": 131,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 19,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 15,
+     "vw": 2,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 18,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "TengokMedan",
+     "words": 1,
+     "lines": 1,
+     "size": 15,
+     "font": "Geist"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 0.75,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono",
+       "share": 0.25,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 16,
+      "vw": 2.1,
+      "font": "Geist Mono",
+      "text": "8"
+     },
+     "monoShare": 0.25,
+     "monoProseShare": 0.25,
+     "monoFamilies": [
+      "Geist Mono"
+     ],
+     "monoSamples": [
+      "8 Armada Aktif",
+      "8",
+      "5",
+      "km/j",
+      "283",
+      "K4"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.03,
+     "smallText": 4
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#08090d",
+     "bodyBgHsl": {
+      "h": 228,
+      "s": 0.24,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#10141d",
+       "top": 868,
+       "hsl": {
+        "h": 222,
+        "s": 0.29,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#08090d",
+       "top": 54,
+       "hsl": {
+        "h": 228,
+        "s": 0.24,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a3b8",
+       "share": 0.52
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.24
+      },
+      {
+       "color": "#f1f5f9",
+       "share": 0.21
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#0ea5e9",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#151b25",
+      "hsl": {
+       "h": 218,
+       "s": 0.28,
+       "l": 0.11
+      },
+      "fg": "#94a3b8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 5,
+     "radius": 8,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Semua",
+      "K2",
+      "K3",
+      "K4",
+      "K5"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "aside#bottom-sheet.transit-panel → rgba(0, 0, 0, 0.45) 0px 8px 30px 0px",
+      "button#btn-compass.ctrl-btn → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px",
+      "button#btn-3d.ctrl-btn.is-active → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px",
+      "button#btn-gps.ctrl-btn → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "header.app-header 768px",
+      "aside#bottom-sheet.transit-panel 768px",
+      "div.panel-search-wrap 768px",
+      "div.corridor-filter-wrap 768px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 9,
+     "boxRadius": 10,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.95
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 54,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist",
+     "geist mono"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1024,
+    "margins": {
+     "left": 20,
+     "right": 14
+    },
+    "sections": [
+     {
+      "sel": "aside#bottom-sheet.transit-panel",
+      "tag": "aside",
+      "top": 868,
+      "height": 696,
+      "words": 61,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Armada Beroperasi (8)",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.map-viewport",
+      "tag": "main",
+      "top": 54,
+      "height": 970,
+      "words": 6,
+      "media": 1,
+      "middle": 479,
+      "heading": null,
+      "left": 31,
+      "right": 14,
+      "textLeft": 31,
+      "textRight": 30,
+      "fullBleed": true,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TengokMedan",
+      "size": 15,
+      "top": 18,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 1
+     },
+     {
+      "x": 44,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "dark": true,
+    "ground": "#08090d",
+    "sidebar": null,
+    "topbar": {
+     "h": 54
+    },
+    "canvas": {
+     "left": 13,
+     "right": 12
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 15,
+     "vw": 2,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 18,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 8,
+     "firstScreen": 0,
+     "ragged": [],
+     "voids": []
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 8,
+     "radii": [
+      [
+       10,
+       8
+      ]
+     ],
+     "heavyBorders": 0,
+     "borderSamples": [],
+     "heavyShadows": 0,
+     "softShadows": 0,
+     "shadowSamples": [],
+     "glass": 0
+    },
+    "chips": {
+     "count": 2,
+     "hues": 1,
+     "samples": [
+      {
+       "hue": 218,
+       "size": 48,
+       "radius": "8px"
+      },
+      {
+       "hue": 218,
+       "size": 48,
+       "radius": "8px"
+      }
+     ]
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 1,
+     "tabularShare": 1,
+     "kpiMax": 16
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.17,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    "title": {
+     "text": "TengokMedan",
+     "size": 15,
+     "top": 18
+    },
+    "colourShare": 0.019
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.97
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 844,
+     "screens": 1,
+     "words": 131,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 19,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 15,
+     "vw": 3.8,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 18,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "TengokMedan",
+     "words": 1,
+     "lines": 1,
+     "size": 15,
+     "font": "Geist"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 0.75,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono",
+       "share": 0.25,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 16,
+      "vw": 4.1,
+      "font": "Geist Mono",
+      "text": "8"
+     },
+     "monoShare": 0.25,
+     "monoProseShare": 0.25,
+     "monoFamilies": [
+      "Geist Mono"
+     ],
+     "monoSamples": [
+      "8 Armada Aktif",
+      "8",
+      "5",
+      "km/j",
+      "283",
+      "K4"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.14,
+     "centerShare": 0.03,
+     "smallText": 4
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#08090d",
+     "bodyBgHsl": {
+      "h": 228,
+      "s": 0.24,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#10141d",
+       "top": 688,
+       "hsl": {
+        "h": 222,
+        "s": 0.29,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#08090d",
+       "top": 54,
+       "hsl": {
+        "h": 228,
+        "s": 0.24,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a3b8",
+       "share": 0.52
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.24
+      },
+      {
+       "color": "#f1f5f9",
+       "share": 0.21
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#0ea5e9",
+       "share": 0
+      }
+     ],
+     "button": null,
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 0,
+     "inHero": 0,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": []
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "aside#bottom-sheet.transit-panel → rgba(0, 0, 0, 0.45) 0px 8px 30px 0px",
+      "button#btn-compass.ctrl-btn → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px",
+      "button#btn-3d.ctrl-btn.is-active → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px",
+      "button#btn-gps.ctrl-btn → rgba(0, 0, 0, 0.3) 0px 4px 14px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "header.app-header 390px",
+      "aside#bottom-sheet.transit-panel 390px",
+      "div.panel-search-wrap 390px",
+      "div.corridor-filter-wrap 390px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 9,
+     "boxRadius": 10,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.94
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 54,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist",
+     "geist mono"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 844,
+    "margins": {
+     "left": 20,
+     "right": 14
+    },
+    "sections": [
+     {
+      "sel": "aside#bottom-sheet.transit-panel",
+      "tag": "aside",
+      "top": 688,
+      "height": 574,
+      "words": 44,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Armada Beroperasi (8)",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 20,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "main.map-viewport",
+      "tag": "main",
+      "top": 54,
+      "height": 790,
+      "words": 6,
+      "media": 1,
+      "middle": 101,
+      "heading": null,
+      "left": 31,
+      "right": 14,
+      "textLeft": 31,
+      "textRight": 30,
+      "fullBleed": true,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TengokMedan",
+      "size": 15,
+      "top": 18,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 1
+     },
+     {
+      "x": 44,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "dark": true,
+    "ground": "#08090d",
+    "sidebar": null,
+    "topbar": {
+     "h": 54
+    },
+    "canvas": {
+     "left": 13,
+     "right": 12
+    },
+    "hero": {
+     "text": "TengokMedan",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 15,
+     "vw": 3.8,
+     "font": "Geist",
+     "weight": 700,
+     "tracking": -0.02,
+     "leading": 1.2,
+     "top": 18,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 8,
+     "firstScreen": 0,
+     "ragged": [],
+     "voids": []
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 8,
+     "radii": [
+      [
+       10,
+       8
+      ]
+     ],
+     "heavyBorders": 0,
+     "borderSamples": [],
+     "heavyShadows": 0,
+     "softShadows": 0,
+     "shadowSamples": [],
+     "glass": 0
+    },
+    "chips": {
+     "count": 2,
+     "hues": 1,
+     "samples": [
+      {
+       "hue": 218,
+       "size": 48,
+       "radius": "8px"
+      },
+      {
+       "hue": 218,
+       "size": 48,
+       "radius": "8px"
+      }
+     ]
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 1,
+     "tabularShare": 1,
+     "kpiMax": 16
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.17,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ]
+    },
+    "title": {
+     "text": "TengokMedan",
+     "size": 15,
+     "top": 18
+    },
+    "colourShare": 0.03
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\after\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

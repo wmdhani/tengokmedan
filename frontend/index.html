@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+  <title>TengokMedan: Pantau Bus Listrik, Kereta Bandara &amp; CCTV Medan</title>
+  <meta name="description"
+    content="Lihat posisi bus listrik, jadwal kereta bandara, dan pantau video CCTV jalan di Kota Medan secara langsung melalui peta." />
+  <meta name="theme-color" content="#08090d" />
+  <meta name="color-scheme" content="dark light" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="TengokMedan: Bus Listrik, Kereta Bandara &amp; CCTV Medan" />
+  <meta property="og:description"
+    content="Lihat posisi bus listrik, jadwal kereta bandara, dan pantau video CCTV jalan di Kota Medan secara langsung melalui peta." />
+  <meta property="og:locale" content="id_ID" />
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%2310141d'/%3E%3Crect x='16' y='16' width='480' height='480' rx='80' fill='none' stroke='%230284c7' stroke-width='16'/%3E%3Cpath d='M160 144h192c32 0 48 24 48 56v152c0 24-16 40-40 40v24a16 16 0 0 1-16 16h-24a16 16 0 0 1-16-16v-24H208v24a16 16 0 0 1-16 16h-24a16 16 0 0 1-16-16v-24c-24 0-40-16-40-40V200c0-32 16-56 48-56zm8 64v88h176v-88H168zm24 144a24 24 0 1 0 0-48 24 24 0 0 0 0 48zm128 0a24 24 0 1 0 0-48 24 24 0 0 0 0 48z' fill='%23f1f5f9'/%3E%3C/svg%3E" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="TengokMedan" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://unpkg.com" crossorigin />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link rel="preconnect" href="https://basemaps.cartocdn.com" crossorigin />
+
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="style.css?v=5.2.0" />
+
+  <script src="https://unpkg.com/pmtiles@3.0.7/dist/pmtiles.js" defer></script>
+  <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js" fetchpriority="high" defer></script>
+  <script src="app.js?v=5.2.0" defer></script>
+</head>
+
+<body>
+  <noscript>
+    <div class="noscript-message">
+      TengokMedan membutuhkan JavaScript aktif untuk memuat peta rute dan posisi bus secara langsung.
+    </div>
+  </noscript>
+
+  <div class="app-container">
+    <main class="map-viewport" role="main">
+      <div class="map" id="map" role="region" aria-label="Peta interaktif bus listrik dan CCTV Kota Medan"></div>
+
+      <nav class="map-controls-rail" aria-label="Kontrol kamera peta">
+        <button type="button" class="ctrl-btn" id="btn-compass" data-action="reset-north"
+          title="Arahkan peta ke utara" aria-label="Arahkan peta ke utara">
+          <svg class="compass-svg" id="compass-needle" viewBox="0 0 24 24" width="18" height="18" fill="none"
+            aria-hidden="true">
+            <polygon points="12,2 15.5,12 12,9.8 8.5,12" fill="#e11d48" />
+            <polygon points="12,22 15.5,12 12,14.2 8.5,12" fill="#94a3b8" />
+          </svg>
+        </button>
+        <button type="button" class="ctrl-btn" id="btn-3d" data-action="toggle-pitch"
+          title="Tampilan 2D atau 3D" aria-label="Ganti tampilan 2D atau 3D" aria-pressed="false">
+          <span class="ctrl-text tabular-num">2D</span>
+        </button>
+        <button type="button" class="ctrl-btn" id="btn-gps" data-action="locate-user" title="Lokasi saya"
+          aria-label="Tampilkan posisi saya">
+          <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="3" />
+            <path d="M12 2v3M12 19v3M2 12h3M19 12h3" />
+          </svg>
+        </button>
+        <button type="button" class="ctrl-btn" id="btn-reset" data-action="reset-camera"
+          title="Kembali ke tengah kota" aria-label="Kembalikan posisi peta ke pusat Kota Medan">
+          <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+            <polyline points="9 22 9 12 15 12 15 22" />
+          </svg>
+        </button>
+      </nav>
+    </main>
+
+    <aside class="transit-panel" id="bottom-sheet" aria-label="Panel informasi bus dan CCTV">
+      <button type="button" class="sheet-drag-handle" id="sheet-toggle" data-action="toggle-sheet"
+        aria-controls="dock-collapsible" aria-expanded="false" aria-label="Tarik untuk buka atau tutup panel">
+        <span class="drag-bar" aria-hidden="true"></span>
+      </button>
+
+      <header class="dock-header" role="banner">
+        <div class="header-brand-wrap">
+          <div class="brand-logo" aria-hidden="true">
+            <svg viewBox="0 0 32 32" width="19" height="19" fill="none" stroke="currentColor">
+              <polygon points="16,2 30,10 30,22 16,30 2,22 2,10" stroke-width="2.2" stroke-linejoin="round" />
+              <polygon points="16,7 25,12 25,20 16,25 7,20 7,12" stroke-width="1.6" stroke-linejoin="round"
+                opacity="0.6" fill="currentColor" fill-opacity="0.12" />
+              <circle cx="16" cy="16" r="3.2" fill="currentColor" />
+            </svg>
+          </div>
+          <h1 class="brand-title">TengokMedan</h1>
+        </div>
+
+        <div class="header-status-group">
+          <div class="live-status-pill">
+            <span class="live-dot" aria-hidden="true"></span>
+            <output class="stat-pill tabular-num" id="stat-bus" aria-live="polite">Memuat...</output>
+          </div>
+          <button type="button" class="btn-icon" id="btn-about" data-action="toggle-about"
+            title="Tentang &amp; Sumber Data" aria-label="Buka informasi tentang aplikasi dan sumber data">
+            <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor"
+              stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="10" />
+              <line x1="12" y1="16" x2="12" y2="12" />
+              <line x1="12" y1="8" x2="12.01" y2="8" />
+            </svg>
+          </button>
+          <button type="button" class="btn-icon" id="btn-theme" data-action="toggle-theme"
+            title="Ganti mode terang atau gelap" aria-label="Ganti mode terang atau gelap">
+            <svg class="theme-icon-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor"
+              stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="5" />
+              <line x1="12" y1="1" x2="12" y2="3" />
+              <line x1="12" y1="21" x2="12" y2="23" />
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+              <line x1="1" y1="12" x2="3" y2="12" />
+              <line x1="21" y1="12" x2="23" y2="12" />
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+            </svg>
+            <svg class="theme-icon-moon is-hidden" viewBox="0 0 24 24" width="15" height="15" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+          </button>
+          <button type="button" class="btn-icon btn-dock-collapse" id="btn-dock-collapse" data-action="toggle-dock"
+            aria-expanded="true" aria-controls="dock-collapsible" title="Tutup panel"
+            aria-label="Tutup atau buka panel informasi">
+            <svg class="dock-chevron" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor"
+              stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="18 15 12 9 6 15" />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <div class="dock-controls">
+        <nav class="mode-nav-tabs" role="tablist" aria-label="Pilih menu">
+          <button type="button" class="mode-tab-btn is-active" id="tab-bus" role="tab" aria-selected="true"
+            data-mode="bus">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 6h18M3 12h18M3 18h18" />
+              <circle cx="7" cy="6" r="1.5" fill="currentColor" />
+              <circle cx="17" cy="12" r="1.5" fill="currentColor" />
+              <circle cx="10" cy="18" r="1.5" fill="currentColor" />
+            </svg>
+            <span>Rute &amp; Armada</span>
+          </button>
+          <button type="button" class="mode-tab-btn" id="tab-cctv" role="tab" aria-selected="false" data-mode="cctv">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M23 7l-7 5 7 5V7z" />
+              <rect x="1" y="5" width="15" height="14" rx="2" ry="2" />
+            </svg>
+            <span>CCTV</span>
+            <span class="mode-tab-badge tabular-num" id="cctv-badge-count">187</span>
+          </button>
+        </nav>
+
+        <div class="transit-submode-selector" id="transit-submode-selector" role="radiogroup" aria-label="Pilih moda transportasi">
+          <button type="button" class="submode-pill is-active" id="btn-submode-bus" data-submode="bus" role="radio" aria-checked="true">
+            <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="4" width="18" height="14" rx="3" />
+              <path d="M7 8h10M4 18l-1 2M20 18l1 2" />
+              <circle cx="7.5" cy="14.5" r="1.5" />
+              <circle cx="16.5" cy="14.5" r="1.5" />
+            </svg>
+            <span>Bus Listrik</span>
+          </button>
+          <button type="button" class="submode-pill" id="btn-submode-train" data-submode="train" role="radio" aria-checked="false">
+            <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="4" y="3" width="16" height="15" rx="3" />
+              <path d="M4 11h16M12 3v8M8 18l-2 3M16 18l2 3" />
+              <circle cx="8" cy="14.5" r="1.5" />
+              <circle cx="16" cy="14.5" r="1.5" />
+            </svg>
+            <span>Kereta Bandara</span>
+          </button>
+        </div>
+
+        <div class="panel-search-wrap">
+          <label for="search-input" class="visually-hidden">Cari armada, rute, halte, atau stasiun</label>
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor"
+              stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+            <input type="search" id="search-input" class="search-input" placeholder="Cari rute, halte, atau stasiun..."
+              autocomplete="off" spellcheck="false" />
+            <button type="button" class="btn-clear-search is-hidden" id="btn-clear-search" data-action="clear-search"
+              aria-label="Hapus pencarian">
+              &times;
+            </button>
+          </div>
+        </div>
+
+        <div class="corridor-filter-wrap">
+          <div class="corridor-pills" id="corridor-pills" role="toolbar" aria-label="Pilih filter moda"></div>
+        </div>
+      </div>
+
+      <div class="dock-collapsible" id="dock-collapsible">
+        <div class="panel-body" id="sheet-content">
+          <div class="loading-state">
+            <p>Memuat data armada dan rute...</p>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <dialog class="about-modal" id="about-modal" aria-labelledby="about-title">
+    <div class="about-card">
+      <header class="about-header">
+        <div class="about-header-brand">
+          <span class="brand-logo" style="width:24px;height:24px;display:inline-flex;align-items:center;justify-content:center" aria-hidden="true">
+            <svg viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentColor">
+              <polygon points="16,2 30,10 30,22 16,30 2,22 2,10" stroke-width="2.2" stroke-linejoin="round" />
+              <circle cx="16" cy="16" r="3.2" fill="currentColor" />
+            </svg>
+          </span>
+          <h2 id="about-title" class="about-title">Tentang TengokMedan</h2>
+        </div>
+        <button type="button" class="btn-action btn-action--close" data-action="close-about" aria-label="Tutup dialog">&times;</button>
+      </header>
+      <div class="about-body">
+        <p class="about-desc">
+          TengokMedan membantu warga Medan mengecek posisi bus listrik, jadwal kereta bandara, dan pantauan CCTV lalu lintas dalam satu peta praktis.
+        </p>
+        <div class="about-section">
+          <h3 class="about-section-title">Sumber Data</h3>
+          <ul class="about-sources">
+            <li><strong>Bus Listrik:</strong> Posisi armada Koridor 1 sampai 5.</li>
+            <li><strong>Kereta Bandara:</strong> Jadwal dan harga tiket KAI Bandara.</li>
+            <li><strong>CCTV Jalan:</strong> Kamera persimpangan Dishub Kota Medan.</li>
+            <li><strong>Peta Dasar:</strong> OpenStreetMap &bull; Protomaps.</li>
+          </ul>
+        </div>
+        <div class="about-section about-disclaimer-box">
+          <strong style="color:var(--text);display:block;margin-bottom:4px">Catatan Penting</strong>
+          <p style="margin:0;font-size:11.5px;color:var(--text-muted);line-height:1.5">
+            Website ini dibuat mandiri oleh warga dan bukan aplikasi resmi pemerintah ataupun operator. Posisi bus serta perkiraan jam tiba bisa sedikit berbeda di lapangan karena kondisi kemacetan jalan dan jeda sinyal GPS.
+          </p>
+        </div>
+      </div>
+      <footer class="about-footer">
+        <button type="button" class="btn-action" style="width:100%" data-action="close-about">Tutup</button>
+      </footer>
+    </div>
+  </dialog>
+</body>
+
+</html>

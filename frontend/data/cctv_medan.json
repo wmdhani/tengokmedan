@@ -1,0 +1,2994 @@
+[
+  {
+    "id": 1,
+    "name": "RADEN SALEH - BALAI KOTA",
+    "description": "Simpang LAPANGAN MERDEKA",
+    "lat": 3.590017,
+    "lon": 98.67763,
+    "cameras": [
+      {
+        "name": "RADENSALEHBALAIKOTA",
+        "alias": "SIMPANG LAPANGAN MERDEKA",
+        "description": "KAMERA PTZ SIMPANG LAP MERDEKA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "AHMAD YANI - PULAU PINANG",
+    "description": "Simpang LONSUM",
+    "lat": 3.588852,
+    "lon": 98.678276,
+    "cameras": [
+      {
+        "name": "AHMADYANIPULAUPINANG",
+        "alias": "SIMPANG LONSUM",
+        "description": "KAMERA PTZ SIMPANG LONSUM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "KESAWAN - PALANG MERAH",
+    "description": "Simpang KESAWAN",
+    "lat": 3.584566,
+    "lon": 98.680644,
+    "cameras": [
+      {
+        "name": "KESAWANPALANGMERAH",
+        "alias": "SIMPANG KESAWAN",
+        "description": "KAMERA PTZ SIMPANG KESAWAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "KATAMSO - ANI IDRUS",
+    "description": "Simpang WASPADA ",
+    "lat": 3.581282,
+    "lon": 98.682542,
+    "cameras": [
+      {
+        "name": "KATAMSOANIIDRUS",
+        "alias": "SIMPANG WASPADA",
+        "description": "KAMERA PTZ SIMPANG WASPADA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "PANDU - CIREBON",
+    "description": "Simpang TIRTANADI ",
+    "lat": 3.582234,
+    "lon": 98.684669,
+    "cameras": [
+      {
+        "name": "PANDUCIREBON",
+        "alias": "SIMPANG TIRTANADI",
+        "description": "KAMERA PTZ SIMPANG PANDU SM RAJA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "KATAMSO - MASJID RAYA",
+    "description": "Simpang ISTANA MAIMUN ",
+    "lat": 3.575387,
+    "lon": 98.684861,
+    "cameras": [
+      {
+        "name": "KATAMSOMASJIDRAYA",
+        "alias": "SIMPANG ISTANA MAIMUN",
+        "description": "KAMERA PTZ SIMPANG ISTANA MAIMUN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "SM.RAJA - AMALIUN",
+    "description": "Simpang MESJID RAYA",
+    "lat": 3.575927,
+    "lon": 98.68759,
+    "cameras": [
+      {
+        "name": "SM.RAJAAMALIUN",
+        "alias": "SIMPANG MASJID RYA",
+        "description": "KAMERA PTZ SIMPANG MASJID RAYA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "GURU PATIMPUS - ADAM MALIK",
+    "description": "Simpang MAJESTIK ",
+    "lat": 3.593382,
+    "lon": 98.668696,
+    "cameras": [
+      {
+        "name": "GURUPATIMPUSADAMMALIK",
+        "alias": "SIMPANG MAYESTIK",
+        "description": "KAMERA PTZ SIMPANG MAYESTIC",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "PENGADILAN - KPT.MAULANA LUBIS",
+    "description": "Simpang WISMA BENTENG ",
+    "lat": 3.589639,
+    "lon": 98.673152,
+    "cameras": [
+      {
+        "name": "PENGADILANKPT.MAULANALUBIS",
+        "alias": "SIMPANG WISMA BENTENG",
+        "description": "KAMERA PTZ SIMPANG WISMA BENTENG",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "PERDANA - IMAM BONJOL",
+    "description": "Simpang LAP.BENTENG",
+    "lat": 3.586873,
+    "lon": 98.673646,
+    "cameras": [
+      {
+        "name": "PERDANAIMAMBONJOL",
+        "alias": "SIMPANG BENTENG 1",
+        "description": "KAMERA PTZ SIMPANG LAP BENTENG 1",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "IMAM BONJOL - ZAINUL ARIFIN",
+    "description": "Simpang HDTI  ",
+    "lat": 3.583652,
+    "lon": 98.675175,
+    "cameras": [
+      {
+        "name": "IMAMBONJOLZAINULARIFIN",
+        "alias": "SIMPANG HDTI",
+        "description": "KAMERA PTZ SIMPANG HDTI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "SUPRAPTO - MULTATULI",
+    "description": "Simpang PIZZA HUT MULTATULI",
+    "lat": 3.578632,
+    "lon": 98.678245,
+    "cameras": [
+      {
+        "name": "SUPRAPTOMULTATULI",
+        "alias": "SIMPANG PIZZA HUT",
+        "description": "KAMERA PTZ SIMPANG PIZZA HUT MULTATULI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "IMAM BONJOL - SUPRAPTO",
+    "description": "Simpang AIR MANCUR IMANUEL",
+    "lat": 3.577874,
+    "lon": 98.67712,
+    "cameras": [
+      {
+        "name": "IMAMBONJOLSUPRAPTO",
+        "alias": "SIMPANG AIR MANCUR",
+        "description": "KAMERA PTZ SIMPANG AIR MANCUR IMANUEL",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "DIPONEGORO - ZAINUL ARIFIN",
+    "description": "Simpang BII ZAINUL ARIFIN",
+    "lat": 3.583472,
+    "lon": 98.672695,
+    "cameras": [
+      {
+        "name": "DIPONEGOROZAINULARIFIN",
+        "alias": "SIMPANG BII",
+        "description": "KAMERA PTZ SIMPANG BII ZAINUL ARIFIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "DIPONEGORO - KARTINI",
+    "description": "Simpang KARTINI ",
+    "lat": 3.579803,
+    "lon": 98.672473,
+    "cameras": [
+      {
+        "name": "DIPONEGOROKARTINI",
+        "alias": "SIMPANG KARTINI",
+        "description": "KAMERA PTZ SIMPANG KARTINI DIPENOGORO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "SUDIRMAN - DIPONEGORO",
+    "description": "Simpang RD WALIKOTA ",
+    "lat": 3.575237,
+    "lon": 98.672013,
+    "cameras": [
+      {
+        "name": "SUDIRMANDIPONEGORO",
+        "alias": "SIMPANG RD.WALIKOTA",
+        "description": "KAMERA PTZ SIMPANG RD WALIKOTA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "SUDIRMAN - CIK DITIRO",
+    "description": "Simpang GUBERNUR",
+    "lat": 3.575057,
+    "lon": 98.670079,
+    "cameras": [
+      {
+        "name": "SUDIRMANCIKDITIRO",
+        "alias": "SIMPANG RD.GUBERNUR",
+        "description": "KAMERA PTZ SIMPANG RD GUBERNUR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "KATAMSO - JUANDA",
+    "description": "Simpang ISTANA PLAZA",
+    "lat": 3.572413,
+    "lon": 98.685623,
+    "cameras": [
+      {
+        "name": "KATAMSOJUANDA",
+        "alias": "SIMPANG JUANDA KATAMSO",
+        "description": "KAMERA PTZ SIMPANG JUANDA KATAMSO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "JUANDA - POLONIA ",
+    "description": "Simpang POLONIA ",
+    "lat": 3.572138,
+    "lon": 98.677818,
+    "cameras": [
+      {
+        "name": "JUANDAPOLONIA",
+        "alias": "SIMPANG POLONIA",
+        "description": "KAMERA PTZ SIMPANG IAMAM BONJOL JUANDA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "SM.RAJA - HALAT",
+    "description": "Simpang SM RAJA HALAT",
+    "lat": 3.572422,
+    "lon": 98.689281,
+    "cameras": [
+      {
+        "name": "SMRAJAHALAT",
+        "alias": "SIMPANG HALAT - SM.RJA",
+        "description": "KAMERA PTZ SIMPANG HALAT SM RAJA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "SM.RAJA - PELANGI",
+    "description": "Simpang SM.RAJA-PELANGI",
+    "lat": 3.562739,
+    "lon": 98.69295,
+    "cameras": [
+      {
+        "name": "SMRAJAPELANGI",
+        "alias": "SIMPANG PELANGI - SM.RAJA",
+        "description": "KAMERA PTZ SIMPANG SM RAJA PELANGI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "SM.RAJA - AH.NASUTION",
+    "description": "Simpang SM.RAJA-PMH ",
+    "lat": 3.539185,
+    "lon": 98.700927,
+    "cameras": [
+      {
+        "name": "SMRAJAPMH",
+        "alias": "SIMPANG PMH",
+        "description": "KAMERA PTZ SIMPANG SM RAJA AH NASUTION",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "SM.RAJA - PANGLIMA DENAI",
+    "description": "Simpang AMPLAS",
+    "lat": 3.536032,
+    "lon": 98.718024,
+    "cameras": [
+      {
+        "name": "AMPLAS",
+        "alias": "SIMPANG AMPLAS",
+        "description": "KAMERA PTZ SIMPANG AMPLAS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L23AMPLAS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "MT.HARYONO - IRIAN BARAT",
+    "description": "Simpang UNILAND",
+    "lat": 3.586019,
+    "lon": 98.683005,
+    "cameras": [
+      {
+        "name": "UNILAND",
+        "alias": "SIMPANG UNILAND",
+        "description": "KAMERA PTZ SIMPANG UNILAND",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L24UNILAND/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "MT.HARYONO - SUTOMO",
+    "description": "Simpang MEDAN MALL ",
+    "lat": 3.58709,
+    "lon": 98.685733,
+    "cameras": [
+      {
+        "name": "MEDANMALL",
+        "alias": "SIMPANG MEDAN MALL",
+        "description": "KAMERA PTZ SIMPANG MEDAN MALL",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "MT HARYONO - MH.THAMRIN",
+    "description": "Simpang MT HARYONO - THAMRIN",
+    "lat": 3.588905,
+    "lon": 98.690301,
+    "cameras": [
+      {
+        "name": "MTHARYONOTHAMRIN",
+        "alias": "SIMPANG MT.THAMRIN SUMATERA",
+        "description": "KAMERA PTZ SIMPANG THAMRIN SUMATERA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "PUTRI HIJAU - GURU PATIMPUS",
+    "description": "Simpang TVRI",
+    "lat": 3.595682,
+    "lon": 98.675844,
+    "cameras": [
+      {
+        "name": "TVRI",
+        "alias": "SIMPANG TVRI",
+        "description": "KAMERA PTZ SIMPANG TVRI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L27TVRI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "SUDIRMAN - S.PARMAN",
+    "description": "Simpang SUDIRMAN UJUNG",
+    "lat": 3.577219,
+    "lon": 98.666707,
+    "cameras": [
+      {
+        "name": "SUDIRMANUJUNG",
+        "alias": "SIMPANG SUDIRMAN UJUNG",
+        "description": "KAMERA PTZ SIMPANG SUDIRMAN UJUNG",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "MONGONSIDI - PATIMURA",
+    "description": "Simpang MONGINSIDI-PATTIMURA",
+    "lat": 3.572711,
+    "lon": 98.661863,
+    "cameras": [
+      {
+        "name": "MONGONSIDIPATTIMURA",
+        "alias": "SIMPANG MANGONSIDI PATIMURA",
+        "description": "KAMERA PTZ SIMPANG MANGONSIDI PATIMURA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "JAMIN GINTING - ISKANDAR MUDA",
+    "description": "Simpang JM.GINTING-ISMUD",
+    "lat": 3.571738,
+    "lon": 98.660966,
+    "cameras": [
+      {
+        "name": "JAMINGINTINGISMUD",
+        "alias": "SIMPANG JM GINTING ISMUD",
+        "description": "KAMERA PTZ SIMPANG JM GINTING ISMUD",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "JAMIN GINTNG - DR.MANSYUR",
+    "description": "Simpang JM.GNTNG-DR.MANSYUR",
+    "lat": 3.567371,
+    "lon": 98.660766,
+    "cameras": [
+      {
+        "name": "JAMINGINTINGDRMANSYUR",
+        "alias": "SIMPANG DR MANSYUR JM GINTING",
+        "description": "KAMERA PTZ SIMPANG JM GINTING DR MANSYUR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "SM.RAJA - HM.JONI ",
+    "description": "Simpang HM.JONI ",
+    "lat": 3.568577,
+    "lon": 98.691037,
+    "cameras": [
+      {
+        "name": "SMRAJAHMJHONI",
+        "alias": "SIMPANG SM RJA HM JONI",
+        "description": "KAMERA PTZ SIMPANG SM RAJA HM JONI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "SM.RAJA - ALFALAH",
+    "description": "Simpang AL FALAH",
+    "lat": 3.546411,
+    "lon": 98.698567,
+    "cameras": [
+      {
+        "name": "SMRAJAALFALAH",
+        "alias": "SIMPANG ALFALAH SM RAJA",
+        "description": "KAMERA PTZ SIMPANG SM RAJA ALFALAH",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "AH.NASUTION - BAJAK",
+    "description": "Simpang BAJAK ",
+    "lat": 3.538458,
+    "lon": 98.698181,
+    "cameras": [
+      {
+        "name": "NASUTIONBAJAK",
+        "alias": "SIMPANG BAJAK NASUTION",
+        "description": "KAMERA PTZ SIMPANG BAJAK NASUTION",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L35NASUTIONBAJAK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "GATOT SUBROTO - ISKANDAR MUDA",
+    "description": "Simpang MEDAN PLAZA",
+    "lat": 3.590632,
+    "lon": 98.661412,
+    "cameras": [
+      {
+        "name": "MEDANPLAZA",
+        "alias": "SIMPANG MEDAN PLAZA",
+        "description": "KAMERA PTZ SIMPANG MEDAN PLAZA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "GATOT SUBROTO - WAHID HASYIM",
+    "description": "Simpang SEI WAMPU ",
+    "lat": 3.589985,
+    "lon": 98.658193,
+    "cameras": [
+      {
+        "name": "SEIWAMPU",
+        "alias": "SIMPANG SEI WAMPU",
+        "description": "KAMERA PTZ SIMPANG SEI WAMPU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "GATOT SUBROTO - AYAHANDA",
+    "description": "Simpang AYAHANDA ",
+    "lat": 3.590227,
+    "lon": 98.653231,
+    "cameras": [
+      {
+        "name": "AYAHANDA",
+        "alias": "SIMPANG AYAHANDA - GATSU",
+        "description": "KAMERA PTZ SIMPANG AYAHANDA GATSU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "GATOT SUBROTO - KAPTEN MUSLIM",
+    "description": "Simpang SEI SIKAMBING",
+    "lat": 3.590731,
+    "lon": 98.643873,
+    "cameras": [
+      {
+        "name": "SEISIKAMBING",
+        "alias": "SIMPANG SEI KAMBING",
+        "description": "KAMERA PTZ SIMPANG SEI KAMBING",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "ISKANDAR MUDA - GAJAH MADA ",
+    "description": "Simpang ISMUD-GAJAH MADA ",
+    "lat": 3.584606,
+    "lon": 98.661183,
+    "cameras": [
+      {
+        "name": "ISMUDGAJAHMADA",
+        "alias": "SIMPANG ISMUD GAJAH MADA",
+        "description": "KAMERA PTZ SIMPANG ISMUD GAJAH MADA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "ISKANDAR MUDA - HASANUDDIN ",
+    "description": "simpang ISMUD-HASANUDDIN ",
+    "lat": 3.583064,
+    "lon": 98.661179,
+    "cameras": [
+      {
+        "name": "ISMUDHASANUDDIN",
+        "alias": "SIMPANG HASNUDDIN ISMUD",
+        "description": "KAMERA PTZ SIMPANG ISMUD HASANUDDIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "ISKANDAR MUDA - ABDULLAH LUBIS",
+    "description": "simpang ISMUD-ABD.LUBIS",
+    "lat": 3.576719,
+    "lon": 98.660867,
+    "cameras": [
+      {
+        "name": "ISMUDABDLUBIS",
+        "alias": "SIMPANG ISMUD ABD LUBIS",
+        "description": "KAMERA PTZ SIMPANG ISMUD ABD LUBIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "KEJAKSAAN - S.PARMAN ",
+    "description": "simpang KEJAKSAAN-S.PARMAN ",
+    "lat": 3.587442,
+    "lon": 98.667349,
+    "cameras": [
+      {
+        "name": "KEJAKSAANSPARMAN",
+        "alias": "SIMPANG KEJAKSAAN SPARMAN",
+        "description": "KAMERA PTZ SIMPANG KEJAKSSAN SPARMAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "GAHARU - PERINTIS KEMERDEKAAN",
+    "description": "simpang GAHARU-PERINTIS ",
+    "lat": 3.596985,
+    "lon": 98.678228,
+    "cameras": [
+      {
+        "name": "GAHARUPERINTIS",
+        "alias": "SIMPANG GAHARU PERINTIS",
+        "description": "KAMERA PTZ SIMPANG GAHARU PERINTIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "PERINTIS KEMERDEKAAN - SUTOMO",
+    "description": "simpang NOUMENSEN",
+    "lat": 3.598246,
+    "lon": 98.68148,
+    "cameras": [
+      {
+        "name": "NOUMENSEN",
+        "alias": "SIMPANG NOUMENSEN",
+        "description": "KAMERA PTZ SIMPANG NOUMENSEN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "SUTOMO - HM.YAMIN",
+    "description": "simpang SUTOMO-YAMIN",
+    "lat": 3.595062,
+    "lon": 98.682539,
+    "cameras": [
+      {
+        "name": "SUTOMOYAMIN",
+        "alias": "SIMPANG SUTOMO YAMIN",
+        "description": "KAMERA PTZ SIMPANG SUTOMO YAMIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "PUTRI HIJAU - YOSUDARSO",
+    "description": "simpang GELUGUR ",
+    "lat": 3.606797,
+    "lon": 98.673962,
+    "cameras": [
+      {
+        "name": "GLUGUR",
+        "alias": "SIMPANG GLUGUR",
+        "description": "KAMERA PTZ SIMPANG GLUGUR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L47GLUGUR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "YOSUDARSO - PEMBANGUNAN ",
+    "description": "simpang BILAL-YOS SUDARSO",
+    "lat": 3.622397,
+    "lon": 98.669957,
+    "cameras": [
+      {
+        "name": "BILALYOSSUDARSO",
+        "alias": "SIMPANG BILAL YOSUDARSO",
+        "description": "KAMERA PTZ SIMPANG BILAL YOSUDARSO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "YOSUDARSO - PERTEMPURAN",
+    "description": "simpang BRAYAN ",
+    "lat": 3.628387,
+    "lon": 98.669315,
+    "cameras": [
+      {
+        "name": "BRAYAN",
+        "alias": "SIMPANG BRAYAN",
+        "description": "KAMERA PTZ SIMPANG BRAYAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L49BRAYAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "GAJAH MADA - WAHID HASYIM",
+    "description": "simpang GAJAH MADA-W.HASYIM",
+    "lat": 3.58487,
+    "lon": 98.65713,
+    "cameras": [
+      {
+        "name": "GAJAHMADAWAHIDHASYIM",
+        "alias": "SIMPANG GAJAH MADA WAHID HASYIM",
+        "description": "KAMERA PTZ SIMPANG GAJAH MADA WAHID HASYIM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "KAPTEN MUSLIM - AMIR HAMZAH",
+    "description": "simpang GRIYA ",
+    "lat": 3.604875,
+    "lon": 98.645706,
+    "cameras": [
+      {
+        "name": "GRIYA",
+        "alias": "SIMPANG AMIR HAMZAH GRIYA",
+        "description": "KAMERA PTZ SIMPANG AMIR HAMZAH KAPTEN MUSLIM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L51GRIYA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "SUNGGAL - KASUARI",
+    "description": "simpang SUNGGAL-KASUARI",
+    "lat": 3.584456,
+    "lon": 98.641315,
+    "cameras": [
+      {
+        "name": "SUNGGALKASUARI",
+        "alias": "SIMPANG SUNGGAL KASUARI",
+        "description": "KAMERA PTZ SIMPANG AMIR HAMZAH SUNGGAL KASUARI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L52SUNGGALKASUARI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "MH.THAMRIN - HM.YAMIN ",
+    "description": "simpang THAMRIN-YAMIN ",
+    "lat": 3.596883,
+    "lon": 98.687526,
+    "cameras": [
+      {
+        "name": "THAMRINYAMIN",
+        "alias": "SIMPANG THAMRIN YAMIN",
+        "description": "KAMERA PTZ SIMPANG AMIR HAMZAH THMARIN YAMIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L53THAMRINYAMIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "KEJAKSAAN - TENGKU UMAR ",
+    "description": "simpang KEJAKSAAN-T.UMAR ",
+    "lat": 3.587017,
+    "lon": 98.671538,
+    "cameras": [
+      {
+        "name": "KEJAKSAANTUMAR",
+        "alias": "SIMPANG KEJKASSAN T UMAR",
+        "description": "KAMERA PTZ SIMPANG KEJAKSAAN T UMAR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L54KEJAKSAANTUMAR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "JUANDA - WALIKOTA ",
+    "description": "simpang JUANDA-WALIKOTA ",
+    "lat": 3.573545,
+    "lon": 98.671207,
+    "cameras": [
+      {
+        "name": "JUANDAWALIKOTA",
+        "alias": "SIMPANG JUANDA WALIKOTA",
+        "description": "KAMERA PTZ SIMPANG JUANDA WALIKOTA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L55JUANDAWALIKOTA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "SM.RAJA - RAHMADSYAH",
+    "description": "simpang RAHMADSYAH",
+    "lat": 3.57965,
+    "lon": 98.685787,
+    "cameras": [
+      {
+        "name": "RAHMADSYAH",
+        "alias": "SIMPANG RAHMDSYAH",
+        "description": "KAMERA PTZ SIMPANG RAHMADSYAH",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L56RAHMADSYAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "AH.NASUTION - STM TRITURA ",
+    "description": "simpang STM TRITURA ",
+    "lat": 3.537974,
+    "lon": 98.691329,
+    "cameras": [
+      {
+        "name": "STMAHNASUTION",
+        "alias": "SIMPANG STM NASUTION",
+        "description": "KAMERA PTZ SIMPANG STM NASUTION",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L57STMAHNASUTION/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "GAGAK HITAM - SUNGGAL",
+    "description": "simpang SUNGGAL-GAGAK HITAM",
+    "lat": 3.578528,
+    "lon": 98.626623,
+    "cameras": [
+      {
+        "name": "SUGGAL",
+        "alias": "SIMPANG SUNGGAL GAGAK HITAM",
+        "description": "KAMERA PTZ SIMPANG SUNGGAL GAGAK HITAM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L59SUGGAL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "GAGAK HITAM - ASOKA",
+    "description": "simpang ASOKA-GAGAK HITAM ",
+    "lat": 3.562668,
+    "lon": 98.62617,
+    "cameras": [
+      {
+        "name": "ASOKA",
+        "alias": "SIMPANG ASOKA",
+        "description": "KAMERA PTZ SIMPANG ASOKA GAGAK HITAM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L60ASOKA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "SETIA BUDI - INDUSTRI",
+    "description": "simpang SETIA BUDI-INDUSTRI",
+    "lat": 3.545806,
+    "lon": 98.626069,
+    "cameras": [
+      {
+        "name": "SETIABUDIINDUSTRI",
+        "alias": "SIMPANG SETIA BUDI",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI INDUSTRI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L61SETIABUDIINDUSTRI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "JAMIN GINTING - AH.NASUTION",
+    "description": "simpang SIMPANG POS ",
+    "lat": 3.540614,
+    "lon": 98.654322,
+    "cameras": [
+      {
+        "name": "SIMPANGPOS",
+        "alias": "SIMPANG POS",
+        "description": "KAMERA PTZ SIMPANG POS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L62SIMPANGPOS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "AH.NASUTION - KARYA WISATA",
+    "description": "simpang KARYA WISATA",
+    "lat": 3.541596,
+    "lon": 98.662692,
+    "cameras": [
+      {
+        "name": "KARYAWISATA",
+        "alias": "SIMPANG KARYAWISATA",
+        "description": "KAMERA PTZ SIMPANG KAYRA WISATA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L63KARYAWISATA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "KATAMSO - PELANGI",
+    "description": "simpang KATAMSO - PELANGI",
+    "lat": 3.562775,
+    "lon": 98.689911,
+    "cameras": [
+      {
+        "name": "KATAMSOPELANGI",
+        "alias": "SIMPANG KATMASO PELANGI",
+        "description": "KAMERA PTZ SIMPANG KATAMSO PELANGI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L64KATAMSOPELANGI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "KATAMSO - SAKTI LUBIS",
+    "description": "simpang KATAMSO - SAKTI LUBIS",
+    "lat": 3.553113,
+    "lon": 98.688722,
+    "cameras": [
+      {
+        "name": "KATAMSOSAKTI LUBIS",
+        "alias": "SIMPANG KATAMSO SAKTI LUBIS",
+        "description": "KAMERA PTZ SIMPANG KATAMSO SAKTI LUBIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L65KATAMSOSAKTILUBIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "SUTOMO - SUTRISNO",
+    "description": "simpang SUTOMO - SUTRISNO",
+    "lat": 3.580155,
+    "lon": 98.688875,
+    "cameras": [
+      {
+        "name": "SUTOMOSUTRISNO",
+        "alias": "SIMPANG SUTOMO SUTRISNO",
+        "description": "KAMERA PTZ SIMPANG SUTOMO SUTRISNO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L66SUTOMOSUTRISNO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "MH.THAMRIN - SUTRISNO ",
+    "description": "simpang THAMRIN - SUTRISNO ",
+    "lat": 3.581166,
+    "lon": 98.693558,
+    "cameras": [
+      {
+        "name": "THAMRINSUTRISNO",
+        "alias": "SIMPANG THAMRIN SUTRISNO",
+        "description": "KAMERA PTZ SIMPANG THAMRIN SUTRISNO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L67THAMRINSUTRISNO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "MH.THAMRIN - ASIA ",
+    "description": "simpang THAMRIN - ASIA ",
+    "lat": 3.585013,
+    "lon": 98.692019,
+    "cameras": [
+      {
+        "name": "THAMRINASIA",
+        "alias": "SIMPANG THAMRIN ASIA",
+        "description": "KAMERA PTZ SIMPANG THAMRIN ASIA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L68THAMRINASIA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "SUTOMO - MARBABU",
+    "description": "simpang SUTOMO - MARBABU",
+    "lat": 3.58558,
+    "lon": 98.686394,
+    "cameras": [
+      {
+        "name": "SUTOMOMERBABU",
+        "alias": "SIMPANG SUTOMO MERBABU",
+        "description": "KAMERA PTZ SIMPANG SUTOMO MERBABU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L69SUTOMOMERBABU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "GAHARU - BAMBU II",
+    "description": "simpang GAHARU - BAMBU II",
+    "lat": 3.607136,
+    "lon": 98.676952,
+    "cameras": [
+      {
+        "name": "GAHARUBAMBU2",
+        "alias": "SIMPANG GAHARU BAMBU II",
+        "description": "KAMERA PTZ SIMPANG GAHARU BAMBU II",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L70GAHARUBAMBU2/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "SUTOMO - BAMBU II",
+    "description": "simpang SUTOMO - BAMBU II",
+    "lat": 3.607197,
+    "lon": 98.679983,
+    "cameras": [
+      {
+        "name": "SUTOMOBAMBU2",
+        "alias": "SIMPANG SUTOMO BAMBU II",
+        "description": "KAMERA PTZ SIMPANG SUTOMO BAMBU II",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L71SUTOMOBAMBU2/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "KRAKATAU - PASAR III ",
+    "description": "simpang KRAKATAU - PASAR III ",
+    "lat": 3.616788,
+    "lon": 98.680869,
+    "cameras": [
+      {
+        "name": "KRAKATAUPASAR3",
+        "alias": "SIMPANG KRAKATAU PASAR III",
+        "description": "KAMERA PTZ SIMPANG KRAKATAU PASAR III",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L72KRAKATAUPASAR3/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "KRAKATAU - BILAL ",
+    "description": "simpang KRAKATAU - BILAL ",
+    "lat": 3.622813,
+    "lon": 98.681036,
+    "cameras": [
+      {
+        "name": "KRAKATAUBILAL",
+        "alias": "SIMPANG KARKATAU BILAL",
+        "description": "KAMERA PTZ SIMPANG KRAKATAU BILAL",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L73KRAKATAUBILAL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "KRAKATU - SIDORUKUN ",
+    "description": "simpang KRAKATU - SIDORUKUN ",
+    "lat": 3.625986,
+    "lon": 98.681066,
+    "cameras": [
+      {
+        "name": "KRAKATUSIDORUKUN",
+        "alias": "SIMPANG SIDORUKUN",
+        "description": "KAMERA PTZ SIMPANG KRAKATAU SIDORUKUN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L74KRAKATUSIDORUKUN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "ABDULAH LUBIS - WAHID HASYIM ",
+    "description": "simpang ABDULAH LUBIS - WAHID HASYIM ",
+    "lat": 3.576846,
+    "lon": 98.657322,
+    "cameras": [
+      {
+        "name": "ABDLUBISWAHIDHASYIM",
+        "alias": "SIMPANG WAHID HASYIM",
+        "description": "KAMERA PTZ SIMPANG WAHID HASYIM ABD LUBIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L75ABDLUBISWAHIDHASYIM/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "KRAKATAU - CEMARA ",
+    "description": "simpang KRAKATAU - CEMARA ",
+    "lat": 3.629786,
+    "lon": 98.681084,
+    "cameras": [
+      {
+        "name": "KRAKATAUCEMARA",
+        "alias": "SIMPANG KRAKTAU CEMARA",
+        "description": "KAMERA PTZ SIMPANG KRAKTAU CEMARA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L76KRAKATAUCEMARA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "SEKIP - PABRIK TENUN",
+    "description": "simpang SEKIP - P TENUN",
+    "lat": 3.598343,
+    "lon": 98.663713,
+    "cameras": [
+      {
+        "name": "SKIPPABRIKTENUN",
+        "alias": "SIMPANG SKIP",
+        "description": "KAMERA PTZ SIMPANG SKIP PABRIK TENUN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L77SKIPPABRIKTENUN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "ABDULLAH LUBIS - SEI BLUTU ",
+    "description": "simpang ADB LBS - SEI BLUTU ",
+    "lat": 3.577011,
+    "lon": 98.65234,
+    "cameras": [
+      {
+        "name": "ABDLUBISSEISERAYU",
+        "alias": "SIMPANG SEI SERAYU",
+        "description": "KAMERA PTZ SIMPANG SEI SERAYU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L78ABDLUBISSEISERAYU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "GAJAH MADA - DARUSSALAM",
+    "description": "simpang GAJAH MADA - DARUSSALAM",
+    "lat": 3.585001,
+    "lon": 98.65306,
+    "cameras": [
+      {
+        "name": "GAJAHMADADARUSSALAM",
+        "alias": "SIMPANG DARUSSALAM",
+        "description": "KAMERA PTZ SIMPANG DARUSSALAM GAJAH MADA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L79GAJAHMADADARUSSALAM/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "MANGONSIDI - DR.CIPTO",
+    "description": "simpang MANGONSIDI - DR.CIPTO",
+    "lat": 3.571215,
+    "lon": 98.666358,
+    "cameras": [
+      {
+        "name": "MANGONSIDIDRCIPTO",
+        "alias": "SIMPANG DR CIPTO",
+        "description": "KAMERA PTZ SIMPANG MANGONSIDI DR CIPTO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L80MANGONSIDIDRCIPTO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "HM.YAMIN - PERINTIS",
+    "description": "simpang HM.YAMIN - PERINTIS",
+    "lat": 3.598586,
+    "lon": 98.691666,
+    "cameras": [
+      {
+        "name": "HMYAMINPERINTIS",
+        "alias": "SIMPANG YAMIN PERINTIS",
+        "description": "KAMERA PTZ SIMPANG HM YAMIN PRINTIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L81HMYAMINPERINTIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "GATOT SUBROTO - ASRAMA",
+    "description": "simpang GATOT SUBROTO - ASRAMA",
+    "lat": 3.591602,
+    "lon": 98.627216,
+    "cameras": [
+      {
+        "name": "GATSUASRAMA",
+        "alias": "SIMPANG MANHATTAN",
+        "description": "KAMERA PTZ SIMPANG GATSU ASRAMA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L82GATSUASRAMA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "HM.YAMIN - WILIAM ISKANDAR",
+    "description": "simpang HM.YAMIN - WILIAM ISKANDAR",
+    "lat": 3.597988,
+    "lon": 98.706443,
+    "cameras": [
+      {
+        "name": "ARHAKIMWILIAISKANDAR",
+        "alias": "SIMPANG AKSARA - WILLIAN ISKANDAR",
+        "description": "KAMERA PTZ SIMPANG WILLIAM ISKANDAR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L83ARHAKIMWILIAISKANDAR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "GATOT SUBROTO - PINANG BARIS",
+    "description": "simpang KAMPUNG LALANG",
+    "lat": 3.597952,
+    "lon": 98.608962,
+    "cameras": [
+      {
+        "name": "PINANGBARIS",
+        "alias": "SIMPANG PINANG BARIS",
+        "description": "KAMERA PTZ SIMPANG PINANG BARIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L84PINANGBARIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "SUMARSONO - ASRAMA",
+    "description": "simpang GAPERTA - ASRAMA",
+    "lat": 3.605167,
+    "lon": 98.627991,
+    "cameras": [
+      {
+        "name": "GAPERTAASRAMA",
+        "alias": "SIMPANG ASRAMA",
+        "description": "KAMERA PTZ SIMPANG GAPERTA ASRAMA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L85GAPERTAASRAMA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "LETDA SUJONO - MANDALA",
+    "description": "simpang LETDA SUJONO - MANDALA",
+    "lat": 3.597734,
+    "lon": 98.711723,
+    "cameras": [
+      {
+        "name": "MANDALA",
+        "alias": "SIMPANG MANDALA",
+        "description": "KAMERA PTZ SIMPANG MANDALA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L86MANDALA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "JAMIN GINTING - RS.ADAM MALIK",
+    "description": "simpang ADAM MALIK",
+    "lat": 3.514036,
+    "lon": 98.615334,
+    "cameras": [
+      {
+        "name": "RSADAMMALIK",
+        "alias": "SIMPANG RS ADAM MALIK",
+        "description": "KAMERA PTZ SIMPANG RS ADAM MALIK",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L87RSADAMMALIK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "JAMIN GINTING - SELAYANG",
+    "description": "simpang SELAYANG",
+    "lat": 3.520051,
+    "lon": 98.619046,
+    "cameras": [
+      {
+        "name": "SELAYANG",
+        "alias": "SIMPANG SELAYANG",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI JAMIN GINTING",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L88SELAYANG/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "SETIA BUDI - FLAMBOYAN RAYA ",
+    "description": "simpang PEMDA ",
+    "lat": 3.541019,
+    "lon": 98.622381,
+    "cameras": [
+      {
+        "name": "PEMDA",
+        "alias": "SIMPANG PEMDA",
+        "description": "KAMERA PTZ SIMPANG SETIA FALAMBOYAN SETI BUDI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L89PEMDA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "JAMIN GINTING - SIMALINGKAR ",
+    "description": "simpang SIMALINGKAR ",
+    "lat": 3.526387,
+    "lon": 98.633127,
+    "cameras": [
+      {
+        "name": "SIMALINGKAR",
+        "alias": "SIMPANG SIMALINGKAR",
+        "description": "KAMERA PTZ SIMPANG JAMIN GINTING SIMALINGKAR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L90SIMALINGKAR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "AR.HAKIM - SEJATI",
+    "description": "simpang AKSRA - SEJATI",
+    "lat": 3.59477,
+    "lon": 98.706302,
+    "cameras": [
+      {
+        "name": "SEJATI",
+        "alias": "SIMPANG SEJATI",
+        "description": "KAMERA PTZ SIMPANG AR HAKIM SEJATI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L91SEJATI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "AR.HAKIM - WAHIDIN ",
+    "description": "simpang AR HAKIM - WAHIDIN ",
+    "lat": 3.589175,
+    "lon": 98.706065,
+    "cameras": [
+      {
+        "name": "WAHIDIN",
+        "alias": "SIMPANG WAHIDN",
+        "description": "KAMERA PTZ SIMPANG AR HAKIM WAHIDIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L92WAHIDIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "AR.HAKIM - DENAI ",
+    "description": "simpang AR HAKIM - DENAI ",
+    "lat": 3.582116,
+    "lon": 98.703968,
+    "cameras": [
+      {
+        "name": "SUKARAMAI",
+        "alias": "SIMPANG SUKARAMAI",
+        "description": "KAMERA PTZ SIMPANG AR HAKIM SUKAIRAMAI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L93SUKAIRAMAI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "PENGADILAN - KEJAKSAAN",
+    "description": "simpang LAPANGAN BENTENG II",
+    "lat": 3.586967,
+    "lon": 98.67296,
+    "cameras": [
+      {
+        "name": "PENGADILANKEJAKASAAN",
+        "alias": "SIMPANG BENTENG 2",
+        "description": "KAMERA PTZ SIMPANG LAP BENTENG 2",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L94PENGADILANKEJAKASAAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "SETIA BUDI - DR.MANSYUR",
+    "description": "Simpang SETIA BUDI DR MANSYUR",
+    "lat": 3.56764,
+    "lon": 98.6421,
+    "cameras": [
+      {
+        "name": "SETIABUDIDRMANSYUR",
+        "alias": "SIMPANG SETIA BUDI DR MANSYUR",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI DR MANSYUR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L95SETIABUDIDRMANSYUR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "SEI BATANGHARI (DEPAN RS.BUNDA THAMRIN)",
+    "description": "RUAS JL.DEPAN RS.BUNDA THAMRIN",
+    "lat": 3.584898,
+    "lon": 98.651012,
+    "cameras": [
+      {
+        "name": "DEPANRSBUNDATHAMRIN",
+        "alias": "RUAS DEPAN RS BUNDA THAMRIN",
+        "description": "KAMERA PTZ RUAS RUAS DEPAN RS BUNDA THAMRIN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L96DEPANRSBUNDATHAMRIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "SEI BATANGHARI - JALAN SEI ULAR",
+    "description": "RUAS JL.SEI BATANGHARI - JALAN SEI ULAR",
+    "lat": 3.584918,
+    "lon": 98.64766,
+    "cameras": [
+      {
+        "name": "SEIULARBARU",
+        "alias": "RUAS SEI ULAR",
+        "description": "KAMERA PTZ RUAS SEI ULAR BARU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L97SEIULARBARU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "SETIA BUDI - TITI BOBROK",
+    "description": "RUAS JL.SETIA BUDI - TITI BOBROK",
+    "lat": 3.58338,
+    "lon": 98.643043,
+    "cameras": [
+      {
+        "name": "TITIBOBROK",
+        "alias": "RUAS TITI BOBROK",
+        "description": "KAMERA PTZ RUAS SETIA BUDI TITI BOBROK",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L98TITIBOBROK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "DR.MANSYUR - PINTU 4 USU",
+    "description": "RUAS JL.DR.MANSYUR PINTU 4 USU",
+    "lat": 3.567222,
+    "lon": 98.655914,
+    "cameras": [
+      {
+        "name": "PINTU4USU",
+        "alias": "RUAS PINTU 4 USU",
+        "description": "KAMERA PTZ RUAS DR MANSYUR PINTU 4 USU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L99PINTU4USU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "DR.MANSYUR - PINTU 2 USU",
+    "description": "RUAS JL.DR.MANSYUR - PINTU 2 USU",
+    "lat": 3.567272,
+    "lon": 98.65951,
+    "cameras": [
+      {
+        "name": "PINTU2USU",
+        "alias": "RUAS PINTU 2 USU",
+        "description": "KAMERA PTZ RUAS DR MANSYUR PINTU 2 USU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L100PINTU2USU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "SM.RAJA - SAUDARA",
+    "description": "RUAS JL.SM.RAJA - SAUDARA",
+    "lat": 3.5583,
+    "lon": 98.694468,
+    "cameras": [
+      {
+        "name": "SMRAJASAUDARA",
+        "alias": "RUAS SM.RAJA SAUDARA",
+        "description": "KAMERA PTZ RUAS JL. SM. RAJA Sp. Jl. SAUDARA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L101SMRAJASAUDARA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "JAWA - VETERAN",
+    "description": "RUAS JL.VETERAN - TIMOR",
+    "lat": 3.590569,
+    "lon": 98.681309,
+    "cameras": [
+      {
+        "name": "JAWAVETERAN",
+        "alias": "RUAS JAWA VETERAN",
+        "description": "KAMERA PTZ RUAS JL. JAWA Sp. Jl. VETERAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L103JAWAVETERAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "VETERAN - TIMOR",
+    "description": "RUAS JL.veteran - Jl. Timor",
+    "lat": 3.590831,
+    "lon": 98.68277,
+    "cameras": [
+      {
+        "name": "VETERANTIMOR",
+        "alias": "RUAS VETERAN TIMOR",
+        "description": "KAMERA PTZ RUAS JL. VETERAN JL. TIMOR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L104VETERANTIMOR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "MH.THAMRIN - DEPAN YP.SUTOMO",
+    "description": "RUAS JL.MH.THAMRIN - DEPAN YP.SUTOMO",
+    "lat": 3.593075,
+    "lon": 98.689005,
+    "cameras": [
+      {
+        "name": "HMTHAMRIN",
+        "alias": "RUAS HM.THAMRIN DEPAN YP SUTOMO",
+        "description": "KAMERA PTZ RUAS JL. HM. THAMRIN DEPAN YP SUTOMO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L105HMTHAMRIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "KEJAKSAAN - DEPAN KANTOR KPU MEDAN",
+    "description": "RUAS JL.KEJAKSAAN - DEPAN KANTOR KPU MEDAN",
+    "lat": 3.586844,
+    "lon": 98.66891,
+    "cameras": [
+      {
+        "name": "KEJAKSAAN",
+        "alias": "RUAS KEJAKSAAN DEPAN KPU KOTA MEDAN",
+        "description": "KAMERA PTZ RUAS JL. KEJAKSAAN DEPAN KPU KOTA MEDAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L106KEJAKSAAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "PUTRI HIJAU - HM.YAMIN ( DPN BRI )",
+    "description": "RUAS JL.PUTRI HIJAU H.M YAMIN ( DPN BRI )",
+    "lat": 3.593045,
+    "lon": 98.67671932,
+    "cameras": [
+      {
+        "name": "PUTRIHIJAUHMYAMIN",
+        "alias": "RUAS PUTRI HIJAU HM YAMIN",
+        "description": "KAMERA PTZ RUAS JL. PUTRI HIJAU HM YAMIN DEPAN BRI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L107PUTRIHIJAUHMYAMIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "YOSUDARSO - DEPAN UNIVERSITAS DARMAWANGSA",
+    "description": "RUAS JL.KL. Yos Sudarso depan YP. Dharma Wangsa",
+    "lat": 3.614151,
+    "lon": 98.672605,
+    "cameras": [
+      {
+        "name": "YOSSUDARSODARMAWANGSA",
+        "alias": "RUAS YOS SUDARSO",
+        "description": "KAMERA PTZ RUAS JL. KL YOS SUDARSO DEPAN YP. DHARMAWANGSA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L108YOSSUDARSODARMAWANGSA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "SUTOMO - DEPAN TAMAN TUGU KB",
+    "description": "RUAS JL.SUTOMO - DEPAN TUGU KB",
+    "lat": 3.609963,
+    "lon": 98.680319,
+    "cameras": [
+      {
+        "name": "SUTOMOTUGUKB",
+        "alias": "RUAS SUTOMO",
+        "description": "KAMERA PTZ RUAS JL. SUTOMO DEPAN TUGU KB",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L109SUTOMOTUGUKB/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "PERINTIS KEMERDEKAAN - TIMOR",
+    "description": "RUAS Jl.PUTRI HIJAU - MERAK JINGGA",
+    "lat": 3.598441,
+    "lon": 98.679525,
+    "cameras": [
+      {
+        "name": "PERINTISTIMOR",
+        "alias": "RUAS PERINTIS TIMOR",
+        "description": "KAMERA PTZ RUAS JL. PERINTIS JL. TIMOR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L110PERINTISTIMOR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "JAWA (DEPAN CENTRE POINT)",
+    "description": "RUAS JL.JAWA (DEPAN CENTRE POINT)",
+    "lat": 3.591695,
+    "lon": 98.680486,
+    "cameras": [
+      {
+        "name": "JAWA",
+        "alias": "RUAS JAWA",
+        "description": "KAMERA PTZ RUAS JL. JAWA DEPAN CENTRE POINT",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L111JAWA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "GATOT SUBROTO - NIBUNG",
+    "description": "RUAS JL.GATOT SUBROTO - NIBUNG",
+    "lat": 3.591893,
+    "lon": 98.664773,
+    "cameras": [
+      {
+        "name": "GATOTSUBRTONIBUNG",
+        "alias": "RUAS GATOT SUBROTO NIBUNG",
+        "description": "KAMERA PTZ RUAS JL. GATOT SUBROTO Sp. JL. NIBUNG",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L113GATOTSUBRTONIBUNG/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "RADEN SALEH ( DEPAN KANTOR WALIKOTA )",
+    "description": "RUAS JL.RADEN SALEH ( DEPAN KANTOR WALIKOTA )",
+    "lat": 3.589758,
+    "lon": 98.675192,
+    "cameras": [
+      {
+        "name": "RADENSALEH",
+        "alias": "RUAS RADEN SALEH",
+        "description": "KAMERA PTZ RUAS JL. RADEN SALEH DEPAN KANTOR WALIKOTA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L114RADENSALEH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "ZAINUL ARIFIN ( SUN PLAZA )",
+    "description": "RUAS JL.ZAINUL ARIFIN ( SUN PLAZA )",
+    "lat": 3.583655,
+    "lon": 98.671259,
+    "cameras": [
+      {
+        "name": "ZAINULARIFIN",
+        "alias": "RUAS ZAINUL ARIFIN",
+        "description": "KAMERA PTZ RUAS JL. ZAINUL ARIFIN DEPAN SUN PLAZA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L115ZAINULARIFIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "IMAM BONJOL - DEPAN SUPERMARKET BERASTAGI",
+    "description": "RUAS JL.IMAM BONJOL ",
+    "lat": 3.588683,
+    "lon": 98.674004,
+    "cameras": [
+      {
+        "name": "IMAMBONJOL",
+        "alias": "RUAS IMAM BONJOL",
+        "description": "KAMERA PTZ RUAS JL. IMAM BONJOL",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L116IMAMBONJOL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "DIPONEGORO( DEPAN MESJID AGUNG )",
+    "description": "RUAS JL.DIPONEGORO ( DEPAN MESJID AGUNG )",
+    "lat": 3.581022,
+    "lon": 98.672718,
+    "cameras": [
+      {
+        "name": "DIPONEGORO",
+        "alias": "RUAS DIPONEGORO",
+        "description": "KAMERA PTZ RUAS JL. DIPONEGORO DEPAN MESJID AGUNG",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L117DIPONEGORO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "MT.HARYONO - BINTANG",
+    "description": "RUAS JL.MT HARYONO - JL.BINTANG",
+    "lat": 3.588448,
+    "lon": 98.688749,
+    "cameras": [
+      {
+        "name": "MTHARYONO",
+        "alias": "RUAS MT.HARYONO",
+        "description": "KAMERA PTZ RUAS JL. MT HARYONO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L119MTHARYONO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "SIMPANG LIMUN - SM.RAJA ",
+    "description": "RUAS SIMPANG LIMUN - SM.RAJA",
+    "lat": 3.55312,
+    "lon": 98.696412,
+    "cameras": [
+      {
+        "name": "SPLIMUN",
+        "alias": "RUAS SP.LIMUN",
+        "description": "KAMERA PTZ RUAS SIMPSNG LIMUN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L120SPLIMUN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "AMPLAS (DEPAN TERMINAL AMPLAS)",
+    "description": "RUAS DEPAN TERMINAL AMPLAS",
+    "lat": 3.540013,
+    "lon": 98.717329,
+    "cameras": [
+      {
+        "name": "DEPANTERMINALAMPLAS",
+        "alias": "RUAS DEPAN TERMINAL AMPLAS",
+        "description": "KAMERA PTZ RUAS JL. AMPLAS DEPAN TERMINAL AMPLAS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L121DEPANTERMINALAMPLAS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "S.PARMAN - HASANUDDIN",
+    "description": "RUAS DEPAN KOKI SUNDA",
+    "lat": 3.582809,
+    "lon": 98.667302,
+    "cameras": [
+      {
+        "name": "SPARMANHASANUDDIN",
+        "alias": "RUAS S.PARMAN HASANUDDIN",
+        "description": "KAMERA PTZ RUAS JL. S PARMAN HASANUDDIN DEPAN KOKI SUNDA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L122SPARMANHASANUDDIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "S.PARMAN - GAJAH MADA",
+    "description": "RUAS DEPAN HOTEL CAMRIDE",
+    "lat": 3.585098,
+    "lon": 98.667166,
+    "cameras": [
+      {
+        "name": "SPARMANZAINUDDIN",
+        "alias": "RUAS S.PARMAN ZAINUDDIN",
+        "description": "KAMERA PTZ RUAS JL. S PARMAN ZAINNUDDIN DEPAN CAMBRIDGE",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L123SPARMANZAINUDDIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "GURU PATIMPUS - KAPTEN MAULANA LUBIS",
+    "description": "RUAS TUGU GURU PATIMPUS",
+    "lat": 3.591142,
+    "lon": 98.671288,
+    "cameras": [
+      {
+        "name": "KPTMAULANALUBISSPARMAN",
+        "alias": "RUAS KPT MAULANA LUBIS S.PARMAN ",
+        "description": "KAMERA PTZ RUAS TUGU GURU PATIMPUS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L125KPTMAULANALUBISSPARMAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "MERAK JINGGA - HM.YAMIN",
+    "description": "RUAS Simpang MERAK JINGGA - HM.YAMIN",
+    "lat": 3.593645,
+    "lon": 98.678145,
+    "cameras": [
+      {
+        "name": "MERAKJINGGAHMYAMIN",
+        "alias": "RUAS MERAK JINGGA HM YAMIN",
+        "description": "KAMERA PTZ RUAS JL. MERAK JINGGA HM YAMIN TUGU 66",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L126MERAKJINGGAHMYAMIN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "MERAK JINGGA - PERINTIS KEMERDEKAAN",
+    "description": "RUAS Simpang MERAK JINGGA - PERINTIS",
+    "lat": 3.596627,
+    "lon": 98.676943,
+    "cameras": [
+      {
+        "name": "MERAKJINGGAPRINTISKEMERDEKAAN",
+        "alias": "RUAS MERAK JINGGA PERINTIS KEMERDEKAAN",
+        "description": "KAMERA PTZ RUAS JL. MERAK JINGGA PERINTIS KEMERDEKAAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L127MERAKJINGGAPRINTISKEMERDEKAAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "JL.HM.SAID - PERINTIS KEMERDEKAAN",
+    "description": "RUAS JL. HM.SAID - PERINTIS",
+    "lat": 3.598715,
+    "lon": 98.683893,
+    "cameras": [
+      {
+        "name": "HMSAIDPRINTISKEMERDEKAAN",
+        "alias": "RUAS HM.SAID PRINTIS KEMERDEKAAN",
+        "description": "KAMERA PTZ RUAS JL. HM SAID PERINTIS KEMERDEKAAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L128HMSAIDPRINTISKEMERDEKAAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "MH.THMARIN - PERINTIS KEMERDEKAAN",
+    "description": "RUAS JL. THAMRIN - PERINTIS",
+    "lat": 3.599225,
+    "lon": 98.686533,
+    "cameras": [
+      {
+        "name": "THAMRINPRINTISKEMERDEKAAN",
+        "alias": "RUAS THAMRIN PRINTIS KEMERDEKAAN",
+        "description": "KAMERA PTZ RUAS JL. THAMRIN PERINTIS KEMERDEKAAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L129THAMRINPRINTISKEMERDEKAAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "YOSUDARSO - CELINCING",
+    "description": "RUAS Simpang Celinicing",
+    "lat": 3.619678,
+    "lon": 98.671263,
+    "cameras": [
+      {
+        "name": "CILINCING",
+        "alias": "RUAS YOS SUDARSO CILINCING",
+        "description": "KAMERA PTZ RUAS JL. YOS SUDARSO KARYA CILINCING",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L130CILINCING/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "KARYA - AMIR HAMZAH",
+    "description": "RUAS Simp.Karya - Amir Hamzah",
+    "lat": 3.606942,
+    "lon": 98.665232,
+    "cameras": [
+      {
+        "name": "KARYATAMIRHAMZAH",
+        "alias": "RUAS KARYA T.AMIR HAMZAH",
+        "description": "KAMERA PTZ RUAS JL. KARYA T.AMIR HAMZAH",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L131KARYATAMIRHAMZAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "ADAM MALIK - AMIR HAMZAH",
+    "description": "RUAS Tugu Guru Adipura",
+    "lat": 3.606862,
+    "lon": 98.669681,
+    "cameras": [
+      {
+        "name": "ADAMMALIKTAMIRHAMZAH",
+        "alias": "RUAS ADAM MALIK T.AMIR HAMZAH",
+        "description": "KAMERA PTZ RUAS JL. ADAM MALIK T.AMIR HAMZAH DEPAN TUGU ADIPURA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L132ADAMMALIKTAMIRHAMZAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "PERDANA - PAJAK HINDU",
+    "description": "RUAS Pajak Hindu",
+    "lat": 3.587423,
+    "lon": 98.677154,
+    "cameras": [
+      {
+        "name": "PAJAKHINDU",
+        "alias": "RUAS PAJAK HINDU",
+        "description": "KAMERA PTZ RUAS SIMPANG PAJAK HINDU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L133PAJAKHINDU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "BUNDARAN POLONIA",
+    "description": "RUAS BUDARAN POLONIA",
+    "lat": 3.56929507,
+    "lon": 98.67839218,
+    "cameras": [
+      {
+        "name": "BUNDARANPOLONIA",
+        "alias": "RUAS BUNDARAN POLONIA",
+        "description": "KAMERA PTZ RUAS BUNDARAN POLONIA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L134BUNDARANPOLONIA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "BUNDARAN HOTEL PARDEDE",
+    "description": "RUAS BUNDARAN HOTEL PARDEDE",
+    "lat": 3.57246464,
+    "lon": 98.67208381,
+    "cameras": [
+      {
+        "name": "BUNDARANHOTELPARDEDE",
+        "alias": "RUAS BUNDARAN HOTEL PARDEDE",
+        "description": "KAMERA PTZ RUAS BUNDARAN HOTEL PARDEDE",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L135BUNDARANHOTELPARDEDE/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "SM.RAJA - DEPAN RAMAYANA",
+    "description": "RUAS JL.SM.RAJA (Depan Ramayana)",
+    "lat": 3.564955,
+    "lon": 98.692316,
+    "cameras": [
+      {
+        "name": "DEPANTUGUSMRAJA",
+        "alias": "RUAS SM RAJA",
+        "description": "KAMERA PTZ RUAS JL. SM RAJA DEPAN TUGU SM RAJA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L136DEPANTUGUSMRAJA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "JUANDA - SAMANHUDI",
+    "description": "RUAS JL.JUANDA - SAMANHUDI",
+    "lat": 3.572415,
+    "lon": 98.681583,
+    "cameras": [
+      {
+        "name": "JUANDASAMANHUDI",
+        "alias": "RUAS JUANDA SAMAN HUDI",
+        "description": "KAMERA PTZ RUAS JL. JUANDA SAMAN HUDI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L137JUANDASAMANHUDI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "KAPTEN MUSLIM - DEPAN PLAZA MILENIUM",
+    "description": "RUAS JL.KAPTEN MUSLIM (DEPAN MILENIUM)",
+    "lat": 3.599318,
+    "lon": 98.645256,
+    "cameras": [
+      {
+        "name": "KPTMMUSLIM",
+        "alias": "RUAS KPT. MUSLIM",
+        "description": "KAMERA PTZ RUAS JL. KPT MUSLIM DEPAN MILLENIUM",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L138KPTMMUSLIM/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "GAJAH MADA -DI.PENJAITAN",
+    "description": "RUAS JL.GAJAH MADA - TAMAN GAJAH MADA",
+    "lat": 3.584586,
+    "lon": 98.658603,
+    "cameras": [
+      {
+        "name": "GAJAHMADA",
+        "alias": "RUAS GAJAH MADA",
+        "description": "KAMERA PTZ RUAS JL. GAJAH MADA DEPAN TAMAN GAJAH MADA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L139GAJAHMADA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "STADION TELADAN - POLSEK MEDAN KOTA",
+    "description": "RUAS JL.STADION TELADAN - POLSEK MEDAN KOTA",
+    "lat": 3.564971,
+    "lon": 98.693402,
+    "cameras": [
+      {
+        "name": "STADION",
+        "alias": "RUAS STADION TELADAN",
+        "description": "KAMERA PTZ RUAS JL. STADIUN SP. POLSEK MEDAN KOTA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L141STADION/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "SUDIRMAN - JEMBATAN SUDRIAMAN",
+    "description": "RUAS JL.SUDIRMAN - JEMBATAN SUDRIAMAN",
+    "lat": 3.576946,
+    "lon": 98.668275,
+    "cameras": [
+      {
+        "name": "SUDIRMAN",
+        "alias": "RUAS SUDIRMAN",
+        "description": "KAMERA PTZ RUAS JL. SUDIRMAN DEKAT JEMBATAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L142SUDIRMAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "IMAM BONJOL - CUT  MUTIA",
+    "description": "RUAS JL.IMAM BONJOL - CUT  MUTIA",
+    "lat": 3.580976,
+    "lon": 98.676651,
+    "cameras": [
+      {
+        "name": "IMAMBONJOLCUTMUTIA",
+        "alias": "RUAS IMAM BONJOL CUT MUTIA",
+        "description": "KAMERA PTZ RUAS JL. IMAM BONJOL CUT MUTIA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L143IMAMBONJOLCUTMUTIA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "GATOT SUBROTO - JEMBATAN SEI ULAR",
+    "description": "RUAS JL.IMAM BONJOL - CUT  MUTIA",
+    "lat": 3.59029,
+    "lon": 98.64677,
+    "cameras": [
+      {
+        "name": "GATOTSUBROTO",
+        "alias": "RUAS GATOT SUBROTO",
+        "description": "KAMERA PTZ RUAS JL. GATOT SUBROTO JEMBATAN UNPAB",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L144GATOTSUBROTO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "GATOT SUBROTO - DEPAN PRSU",
+    "description": "RUAS JL.GATOT SUBRORTO - DEPAN PRSU",
+    "lat": 3.591121,
+    "lon": 98.633254,
+    "cameras": [
+      {
+        "name": "GATOTSUBROTOPRSU",
+        "alias": "RUAS GATOT SUBROTO PRSU",
+        "description": "KAMERA PTZ RUAS JL. GATOT SUBROTO DEPAN PRSU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L145GATOTSUBROTOPRSU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "AHMAD YANI - DEPAN TIP TOP",
+    "description": "RUAS JL.AHMAD YANI - DEPAN TIP TOP",
+    "lat": 3.58585,
+    "lon": 98.679986,
+    "cameras": [
+      {
+        "name": "AHMADYHANI",
+        "alias": "RUAS AHMAD YHANI",
+        "description": "KAMERA PTZ RUAS JL. AHMAD YHANI DEPAN TIP - TOP",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L146AHMADYHANI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "MONGONSIDI - PERHUBUNGUN",
+    "description": "RUAS JL.MONGONSIDI - PERHUBUNGUN (Depan KFC)",
+    "lat": 3.57132,
+    "lon": 98.671817,
+    "cameras": [
+      {
+        "name": "MONGONSIDIPPERHUBUNGAN",
+        "alias": "RUAS MONGONSIDI PERHUBUNGAN DEPAN KFC",
+        "description": "KAMERA PTZ RUAS JL. MONGONSIDI PERHUBUNGAN DEPAN KFC",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L147MONGONSIDIPPERHUBUNGAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "SUTOMO - ANI IDRUS",
+    "description": "RUAS JL.SUTOMO - ANI IDRUS (Perlintasan KA)",
+    "lat": 3.583366,
+    "lon": 98.687272,
+    "cameras": [
+      {
+        "name": "SUTOMOANIIDRUS",
+        "alias": "RUAS SUTOMO ANI IDRUS",
+        "description": "KAMERA PTZ RUAS JL. SUTOMO ANI IDRUS PERLINTASAN KA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L148SUTOMOANIIDRUS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "PALANG MERAH - MASJID",
+    "description": "RUAS JL.PALANG MERAH - MASJID",
+    "lat": 3.584137,
+    "lon": 98.678663,
+    "cameras": [
+      {
+        "name": "PALANGMERAHMESJID",
+        "alias": "RUAS PALANG MERAH MESJID",
+        "description": "KAMERA PTZ RUAS JL. PALANG MERAH MESJID",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L149PALANGMERAHMESJID/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "PALANG MERAH - LISTRIK",
+    "description": "RUAS JL.PALANG MERAH - LISTRIK",
+    "lat": 3.584288,
+    "lon": 98.676265,
+    "cameras": [
+      {
+        "name": "PALANGMERAHLISTRIK",
+        "alias": "RUAS PALANG MERAH LISTRIK",
+        "description": "KAMERA PTZ RUAS JL. PALANG MERAH LISTRIK",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L150PALANGMERAHLISTRIK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "SEKIP - MERANTI",
+    "description": "RUAS JL.SEKIP - MERANTI",
+    "lat": 3.594885,
+    "lon": 98.666223,
+    "cameras": [
+      {
+        "name": "SKIPMERANTI",
+        "alias": "RUAS SKIP MERANTI",
+        "description": "KAMERA PTZ RUAS JL. SKIP MERANTI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L151SKIPMERANTI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "DR.CIPTO - MASDULHAK",
+    "description": "RUAS JL.DR.CIPTO - MASDULHAK",
+    "lat": 3.572166,
+    "lon": 98.667075,
+    "cameras": [
+      {
+        "name": "DRCIPTOMASDULHAD",
+        "alias": "RUAS DR.CIPTO MASDULHAD",
+        "description": "KAMERA PTZ RUAS JL. DR.CIPTO MASDULHAD",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L153DRCIPTOMASDULHAD/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "SUDIRMAN - DEPAN TAMAN AHMAD YANI",
+    "description": "RUAS DEPAN TAMAN AHMAD YANI",
+    "lat": 3.577797,
+    "lon": 98.67717,
+    "cameras": [
+      {
+        "name": "SUPRAPTOIMAMBONJOL",
+        "alias": "RUAS SUPRAPTO IMAM BONJOL",
+        "description": "KAMERA PTZ RUAS JL. SUPRAPTO IMAM BONJOL DEPAN TAMAN AHMAD YHANI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L154SUPRAPTOIMAMBONJOL/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "GURU PATIMPUS - SEI DELI",
+    "description": "RUAS JL.GURU PATIMPUS - SEI DELI",
+    "lat": 3.59444,
+    "lon": 98.672211,
+    "cameras": [
+      {
+        "name": "GURUPATIMPUSSEIDELI",
+        "alias": "RUAS GURU PATIMPUS SEI DELI",
+        "description": "KAMERA PTZ RUAS JL. GURU PATIMPUS SEI DELI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L155GURUPATIMPUSSEIDELI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "HM.JONI - GEDUNG ARCA",
+    "description": "RUAS JL.HM.JONI - GEDUNG ARCA",
+    "lat": 3.568569,
+    "lon": 98.695663,
+    "cameras": [
+      {
+        "name": "HMJHONIGEDUNGARCA",
+        "alias": "RUAS HM JHONI GEDUNG ARCA",
+        "description": "KAMERA PTZ RUAS JL. HM JHONI GEDUNG ARCA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L156HMJHONIGEDUNGARCA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "PUTRI HIJAU - MERAK JINGGA",
+    "description": "RUAS JL.PUTRI HIJAU - MERAK JINGGA",
+    "lat": 3.600683,
+    "lon": 98.673161,
+    "cameras": [
+      {
+        "name": "PUTRIHIJAUMERAKJINGGA",
+        "alias": "RUAS PUTRI HIJAU MERAK JINGGA",
+        "description": "KAMERA PTZ RUAS JL. PUTRI HIJAU MERAK JINGGA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L158PUTRIHIJAUMERAKJINGGA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "YOSSUDARSO - ABD WAHAB ROKAN",
+    "description": "RUAS JL. YOS SUDARSO - ABD WAHAB ROKAN",
+    "lat": 3.609257,
+    "lon": 98.674224,
+    "cameras": [
+      {
+        "name": "YOSSUDARSOABDWAHAB",
+        "alias": "RUAS YOS SUDARSO ABD WAHAB",
+        "description": "KAMERA PTZ RUAS JL. YOS SUDARSO ABD WAHAB",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L159YOSSUDARSOABDWAHAB/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "STASIUN - BUKIT BARISAN (HALTE 1)",
+    "description": "RUAS JL. STASIUN - BUKIT BARISAN (HALTE 1)",
+    "lat": 3.592821,
+    "lon": 98.678812,
+    "cameras": [
+      {
+        "name": "STASIUNHALTEI",
+        "alias": "RUAS STASIUN BUKIT BARISAN HALTE I",
+        "description": "KAMERA PTZ RUAS JL. STASIUN BUKIT BARISAN HALTE I",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L160STASIUNHALTEI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "STASIUN - BUKIT BARISAN (HALTE 2)",
+    "description": "RUAS JL. STASIUN - BUKIT BARISAN (HALTE 2)",
+    "lat": 3.592044,
+    "lon": 98.679099,
+    "cameras": [
+      {
+        "name": "STASIUNHALTEII",
+        "alias": "RUAS STASIUN BUKIT BARISAN HALTE II",
+        "description": "KAMERA PTZ RUAS JL. STASIUN BUKIT BARISAN HALTE II",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L161STASIUNHALTEII/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "STASIUN - PALANG MERAH",
+    "description": "RUAS JL. STASIUN - PALANG MERAH",
+    "lat": 3.58542,
+    "lon": 98.681834,
+    "cameras": [
+      {
+        "name": "STASIUNPALANGMERAH",
+        "alias": "RUAS STASIUN PALANG MERAH",
+        "description": "KAMERA PTZ RUAS JL. STASIUN PALANG MERAH ",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L162STASIUNPALANGMERAH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "RAHMADSYAH - SUTOMO",
+    "description": "RUAS JL. RAMADSYAH - SUTOMO",
+    "lat": 3.579833,
+    "lon": 98.688956,
+    "cameras": [
+      {
+        "name": "RAHMADSYAHSUTOMO",
+        "alias": "RUAS RAHMADSYAH SUTOMO",
+        "description": "KAMERA PTZ RUAS JL. RAHMADSYAH SUTOMO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L163RAHMADSYAHSUTOMO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "JAMIN GINTING - PASAR INDUK",
+    "description": "RUAS JL. JAMIN GINTING - PASAR INDUK",
+    "lat": 3.50099,
+    "lon": 98.611781,
+    "cameras": [
+      {
+        "name": "JAMINGINTINGPASARINDUK",
+        "alias": "RUAS JAMIN GINTING PASAR INDUK",
+        "description": "KAMERA PTZ RUAS JL. JAMIN GINTING PASAR INDUK",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L164JAMINGINTINGPASARINDUK/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "GATOT SUBROTO - BATAS KOTA",
+    "description": "RUAS JL. GATOT SUBROTO(Tugu Batas Kota) - PINANG BARIS",
+    "lat": 3.599035,
+    "lon": 98.605707,
+    "cameras": [
+      {
+        "name": "GATOTSUBROTOPINANGBARIS",
+        "alias": "RUAS GATOT SUBROTO PINANG BARIS ",
+        "description": "KAMERA PTZ RUAS JL. GATOT SUBROTO TUGU BATAS KOTA PINANG BARIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L165GATOTSUBROTOPINANGBARIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "GATOT SUBROTO - PATRIOT",
+    "description": "RUAS JL. GATOT SUBROTO -  PATRIOT",
+    "lat": 3.592832,
+    "lon": 98.621483,
+    "cameras": [
+      {
+        "name": "GATOTSUBROTOPATRIOT",
+        "alias": "RUAS GATOT SUBROTO PATRIOT",
+        "description": "KAMERA PTZ RUAS JL. GATOT SUBROTO PATRIOT",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L166GATOTSUBROTOPATRIOT/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "KAKATAU - BUKIT BARISAN 1",
+    "description": "RUAS JL. KAKATAU - BUKIT BARISAN 1",
+    "lat": 3.614009,
+    "lon": 98.680629,
+    "cameras": [
+      {
+        "name": "KRAKATAUBUKITBARISAN",
+        "alias": "RUAS KRAKATAU BUKIT BARISAN",
+        "description": "KAMERA PTZ RUAS JL. KRAKATAU BUKIT BARISAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L167KRAKATAUBUKITBARISAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "HM.YAMIN - T.IBRAHIM UMAR",
+    "description": "RUAS JL. HM.YAMIN - T.IBRAHIM UMAR",
+    "lat": 3.598486,
+    "lon": 98.695895,
+    "cameras": [
+      {
+        "name": "HMYAMINTIBRAHIMUMAR",
+        "alias": "RUAS HM YAMIN T.IBRAHIM UMAR",
+        "description": "KAMERA PTZ RUAS JL. HM YAMIN T.IBRAHIM UMAR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L168HMYAMINTIBRAHIMUMAR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "KEPRIBADIAN - SIMP MAYOR",
+    "description": "RUAS JL. KEPRIBADIAN - SIMP MAYOR",
+    "lat": 3.588827,
+    "lon": 98.676495,
+    "cameras": [
+      {
+        "name": "KEPRIBADIANMAYOR",
+        "alias": "RUAS KEPRIBADIAN SP MAYOR",
+        "description": "KAMERA PTZ RUAS JL. KEPRIBADIAN SP.MAYOR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L169KEPRIBADIANMAYOR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "BAMBU - SUTOMO",
+    "description": "RUAS JL. BAMBU 1",
+    "lat": 3.604516,
+    "lon": 98.679793,
+    "cameras": [
+      {
+        "name": "BAMBU1",
+        "alias": "SIMPANG BAMBU - SUTOMO",
+        "description": "KAMERA PTZ RUAS JL. BAMBU 1",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L170BAMBU1/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "AR.HAKIM - HALAT",
+    "description": "SIMPANG AR HAKIM - HALAT",
+    "lat": 3.57223,
+    "lon": 98.703278,
+    "cameras": [
+      {
+        "name": "ARHAKIMHALAT",
+        "alias": "SIMPANG AR HAKIM HALAT",
+        "description": "KAMERA PTZ SIMPANG JL.AR.HAKIM HALAT",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L171ARHAKIMHALAT/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "HM.JHONI - GEDUNG ARCA",
+    "description": "SIMPANG HM JHONI - GEDUNG ARCA",
+    "lat": 3.56875,
+    "lon": 98.69589,
+    "cameras": [
+      {
+        "name": "GEDUNGARCA",
+        "alias": "SIMPANG GEDUNG ARCA",
+        "description": "KAMERA PTZ SIMPANG GEDUNG ARCA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L172GEDUNGARCA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "HM.JONI - BAHAGIA",
+    "description": "SIMPANG HM.JONI - PASAR MERAH",
+    "lat": 3.568606,
+    "lon": 98.702944,
+    "cameras": [
+      {
+        "name": "HMJONIBAHAGIA",
+        "alias": "SIMPANG HM.JONI BAHAGIA",
+        "description": "KAMERA PTZ SIMPANG H.JONI PASAR MERAH",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L174HMJONIBAHAGIA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "SETIA BUDI - SEISERAYU",
+    "description": "SIMPANG SETIA BUDI - SEISERAYU",
+    "lat": 3.577565,
+    "lon": 98.642995,
+    "cameras": [
+      {
+        "name": "SETIABUDISEISERAYU",
+        "alias": "SIMPANG SETIABUDI SEIRAYU",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI SEISERAYU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L175SETIABUDISEISERAYU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "SETIA BUDI - SEI BLUTU",
+    "description": "SIMPANG SETIA BUDI - SEI BLUTU",
+    "lat": 3.576443,
+    "lon": 98.642923,
+    "cameras": [
+      {
+        "name": "SETIABUDISEIBLUTU",
+        "alias": "SIMPANG SETIA BUDI SEIBLUTU",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI SEIBLUTU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L176SETIABUDISEIBLUTU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "YOSUDARSO - PERTEMPURAN 2",
+    "description": "SIMPANG YOSUDARSO - PERTEMPURAN 2",
+    "lat": 3.628345,
+    "lon": 98.669298,
+    "cameras": [
+      {
+        "name": "YOSUDARSOPERTEMPURAN",
+        "alias": "SIMPANG YOSUDARSO PERTEMPURAN 2",
+        "description": "KAMERA PTZ SIMPANG YOSUDARSO PERTEMPURAN 2",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L177YOSUDARSOPERTEMPURAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "SETIA BUDI - KOMPLEK TASBIH",
+    "description": "SIMPANG SETIA BUDI - KOMPLEK TASBIH",
+    "lat": 3.563952,
+    "lon": 98.639192,
+    "cameras": [
+      {
+        "name": "SETIABUDIKOMPLEKTASBIH",
+        "alias": "SIMPANG SETIA BUDI KOMPLEK TASBIH",
+        "description": "KAMERA PTZ SIMPANG SETIA BUDI KOMPLEK TASBIH",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L178SETIABUDIKOMPLEKTASBIH/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "GATOT SUBROTO - DEPAN PLAZA FAIR",
+    "description": "GENANGAN AIR GATOT SUBROTO - DEPAN PLAZA FAIR",
+    "lat": 3.591333,
+    "lon": 98.663453,
+    "cameras": [
+      {
+        "name": "GATOTSUBROTOFLAZAFAIR",
+        "alias": "RUAS GATOT SUBROTO - DEPAN FLZA FAIR",
+        "description": "GENANANGAN AIR GATOT SUBROTO - DEPAN FLZA FAIR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L179GATOTSUBROTOFLAZAFAIR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "SUNGAI BABURA KPT.MAULANA LUBIS",
+    "description": "PEMANTAU SUNGAI BABURA KPT.MAULANA LUBIS",
+    "lat": 3.590929,
+    "lon": 98.671467,
+    "cameras": [
+      {
+        "name": "SUNGAIBABURAKPTMAULANALUBIS",
+        "alias": "SUNGAI BABURA KPT.MULANA LUBIS",
+        "description": "PEMANTAU SUNGAI BABURA JEMBATAN KPT.MAULANA LUBIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L180SUNGAIBABURAKPTMAULANALUBIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "JEMBATAN KPT.MAULANA LUBIS",
+    "description": "JEMBATAN KPT.MAULANA LUBIS",
+    "lat": 3.590929,
+    "lon": 98.671467,
+    "cameras": [
+      {
+        "name": "JEMBATANKPTMAULANALUBIS",
+        "alias": "JEMBATAN KPT MAULANA LUBIS",
+        "description": "JEMBATAN KPT.MAULANA LUBIS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L181JEMBATANKPTMAULANALUBIS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "SUNGAI DELI SUPRAPTO",
+    "description": "PEMANTAU SUNGAI DELI SUPRAPTO",
+    "lat": 3.580441,
+    "lon": 98.680644,
+    "cameras": [
+      {
+        "name": "SUNGAIDELISUPRAPTO",
+        "alias": "SUNGAI DELI SUPRAPTO",
+        "description": "PEMANTAU SUNGAI DELI SUPRAPTO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L182SUNGAIDELISUPRAPTO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "JEMBATAN SUPRAPTO",
+    "description": "JEMBATAN SUPRAPTO",
+    "lat": 3.580441,
+    "lon": 98.680644,
+    "cameras": [
+      {
+        "name": "JEMBATANSUPRAPTO",
+        "alias": "JEMBATAN SUPRAPTO",
+        "description": "JEMBATAN SUPRAPTO",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L183JEMBATANSUPRAPTO/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN KANTOR FASSI",
+    "lat": 3.5975261,
+    "lon": 98.7181644,
+    "cameras": [
+      {
+        "name": "LETDASUJONODEPANFASSI\t",
+        "alias": "RUAS LETDA SUJONO DPN KANTOR FASSI",
+        "description": "KAMERA RUAS LETDA SUJONO DPN KANTOR FASSI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L184RUASLETDASUJONODEPANFASSI/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN PT. BRENGGA RUA INDONESIA",
+    "lat": 3.597539,
+    "lon": 98.721339,
+    "cameras": [
+      {
+        "name": "LETDASUJONOPTBRENGGARUAINDONESA\t",
+        "alias": "RUAS LETDA SUJONO DPN PT. BRENGGA RUA INDONESIA",
+        "description": "KAMERA RUAS LETDA SUJONO DPN PT. BRENGGA RUA INDONESA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L185RUASLETDASUJONOPT.BRENGGARUAINDONESA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN STIKES SEHAT MEDAN",
+    "lat": 3.597212,
+    "lon": 98.727115,
+    "cameras": [
+      {
+        "name": "LETDASUJONODEPANSTIKESSEHATMEDAN\t",
+        "alias": "RUAS LETDA SUJONO DEPAN STIKES SEHAT MEDAN",
+        "description": "KAMERA RUAS LETDA SUJONO DPN STIKES SEHAT MEDAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L186RUASLETDASUJONODEPANSTIKESSEHATMEDAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN MR DIY",
+    "lat": 3.597111,
+    "lon": 98.733641,
+    "cameras": [
+      {
+        "name": "LETDASUJONODEPANMRDIY",
+        "alias": "RUAS LETDA SUJONO DEPAN MR DIY",
+        "description": "KAMERA RUAS LETDA SUJONO DPN MR DIY",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L187RUASLETDASUJONODEPANMRDIY/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN SMK PRAYATNA",
+    "lat": 3.597044,
+    "lon": 98.7362,
+    "cameras": [
+      {
+        "name": "LETDASUJONODEPANSMKPRAYATNA",
+        "alias": "RUAS LETDA SUJONO DEPAN SMK PRAYATNA",
+        "description": "KAMERA RUAS LETDA SUJONO DPN SMK PRAYATNA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L188RUASLETDASUJONODEPANSMKPRAYATNA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "RUAS LETDA SUJONO",
+    "description": "DPN SPBU",
+    "lat": 3.596932,
+    "lon": 98.738937,
+    "cameras": [
+      {
+        "name": "LETDASUJONODEPANSPBU",
+        "alias": "RUAS LETDA SUJONO DEPAN SPBU",
+        "description": "KAMERA RUAS LETDA SUJONO DPN SPBU",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L189RUASLETDASUJONODEPANSPBU/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "JL. HM YAMIN - JL. TIMUR",
+    "description": "RUAS JL. HM YAMIN - JL. TIMUR",
+    "lat": 3.594577,
+    "lon": 98.680938,
+    "cameras": [
+      {
+        "name": "JLYAMINTIMUR",
+        "alias": "RUAS JL. YAMIN - JL TIMUR",
+        "description": "KAMERA RUAS JL. YAMIN -JL. TIMUR",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L190RUASJLYAMINJLTIMUR/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "RUAS JAMIN GINTING",
+    "description": "RUAS JL. GINTING DEPAN PAJUS",
+    "lat": 3.560702,
+    "lon": 98.662179,
+    "cameras": [
+      {
+        "name": "JLJAMINGINITNGDPNPAJUS",
+        "alias": "RUAS JL. JAMIN GINTING DPN PAJUS",
+        "description": "KAMERA RUAS JL. JAMIN GINTING DPN PAJUS",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L191RUASJLJAMINGINTINGDEPANPAJUS/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "RUAS ISKANDAR MUDA",
+    "description": "RUAS JL. ISKANDAR MUDA DEPAN RS VINA ESTETICA",
+    "lat": 3.586883,
+    "lon": 98.661274,
+    "cameras": [
+      {
+        "name": "ISKANDARMUDADPNVINAESTETICA",
+        "alias": "RUAS JL. ISKANDAR MUDA DPN VINA ESTETICA",
+        "description": "KAMERA RUAS JL. ISKANDAR MUDA DPN VINA ESTETICA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L192RUASJLISKANDARMUDADEPANRSVINAESTETICA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "RUAS ISKANDAR MUDA",
+    "description": "RUAS JL. ISKANDAR MUDA - SP PRINGGAN",
+    "lat": 3.57999,
+    "lon": 98.661061,
+    "cameras": [
+      {
+        "name": "ISKANDARMUDASPPRINGGAN",
+        "alias": "RUAS JL. ISKANDAR MUDA SP PRINGGAN",
+        "description": "KAMERA RUAS JL. ISKANDAR MUDA SP PRINGGAN",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L193RUASJLISKANDARMUDASPPRINGGAN/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "MUKHTAR BASRI - KARANTINA",
+    "description": "SIMPANG MUKHTAR BASRI - KARANTINA",
+    "lat": 3.610185,
+    "lon": 98.676799,
+    "cameras": [
+      {
+        "name": "MUKHTARBASRIKAARANTINA",
+        "alias": "SIMP. MUKHTAR BASRI - KARANTINA",
+        "description": "KAMERA PTZ SIMPANG MUKHTAR BASRI - KARANTINA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L194MUKHTARBASRIKARANTINA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "name": "GATSU - ASRAMA 2",
+    "description": "SIMPANG GATSU - ASRAMA 2",
+    "lat": 3.591777,
+    "lon": 98.627125,
+    "cameras": [
+      {
+        "name": "GATSUASRAMA2",
+        "alias": "SIMP. GATSU - ASRAMA 2",
+        "description": "KAMERA PTZ SIMPANG GATSU - ASRAMA 2",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L195GATSUASRAMA/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "AH NASUTION - KARYA JAYA",
+    "description": "SIMPANG AH NASUTION - KARYA JAYA",
+    "lat": 3.541643,
+    "lon": 98.67907,
+    "cameras": [
+      {
+        "name": "AHNASUTIONKARYAJAYA",
+        "alias": "SIMP. AH NASUTION - KARYA JAYA",
+        "description": "KAMERA PTZ SIMPANG AH NASUTION - KARYA JAYA",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L196KARYAJAYAAHNASUTION/index.m3u8",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "SUNGGAL -SEI BATANG HARI",
+    "description": "SIMPANG SUNGGAL - SEI BATANG HARI ",
+    "lat": 3.585475,
+    "lon": 98.641375,
+    "cameras": [
+      {
+        "name": "SUNGGALSEIBATANGHARI",
+        "alias": "SIMP. SUNGGAL - SEI BATANG HARI",
+        "description": "KAMERA PTZ SIMPANG SUNGGAL - SEI BATANG HARI",
+        "stream_url": "https://atcsdishub.medan.go.id/stream/L197SUNGGALSEIBATANGHARI/index.m3u8",
+        "type": 1
+      }
+    ]
+  }
+]

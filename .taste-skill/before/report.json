@@ -1,0 +1,1129 @@
+{
+ "url": "frontend/index.html",
+ "at": "2026-10-19T13:46:28.690Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    1,
+    0.73
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 1247,
+     "screens": 1.4,
+     "words": 42,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "🧭"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 1,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "lines": 1,
+     "size": 15,
+     "font": "Inter"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15
+     ],
+     "sizeCount": 3,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 15,
+      "vw": 1,
+      "font": "Inter",
+      "text": "Medan Transit 3D"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.13,
+     "centerShare": 0.51,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#090d16",
+     "bodyBgHsl": {
+      "h": 222,
+      "s": 0.42,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#f8fafc",
+       "share": 0.41
+      },
+      {
+       "color": "#94a3b8",
+       "share": 0.27
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.18
+      },
+      {
+       "color": "#000000",
+       "share": 0.08
+      },
+      {
+       "color": "#38bdf8",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f8fafc",
+      "hsl": {
+       "h": 210,
+       "s": 0.4,
+       "l": 0.98
+      },
+      "fg": "#0f172a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 29,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Semua"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 1,
+     "shadowSamples": [
+      "header.top-bar → rgba(0, 0, 0, 0.4) 0px 8px 32px 0px",
+      "button#btn-compass.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-3d.fab-btn.is-active → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-gps.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#bottom-sheet.bottom-sheet 520px",
+      "div#corridor-pills.corridor-pills 520px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 7,
+     "roundedBoxes": 1,
+     "boxRadius": 24,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 47,
+     "floatingPill": true,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 1247,
+    "margins": {
+     "left": 92,
+     "right": 14
+    },
+    "sections": [],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Medan Transit 3D",
+      "size": 15,
+      "top": 28,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 516,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "dark": true,
+    "ground": "#090d16",
+    "sidebar": null,
+    "topbar": null,
+    "canvas": {
+     "left": 0,
+     "right": 0
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 1,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 1,
+     "firstScreen": 1,
+     "ragged": [],
+     "voids": [
+      {
+       "gap": 337,
+       "at": 910,
+       "panel": "ARMADA BEROPERASI (0)"
+      }
+     ]
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 1,
+     "radii": [
+      [
+       24,
+       1
+      ]
+     ],
+     "heavyBorders": 1,
+     "borderSamples": [
+      "#ffffff on #090d16 (19.43:1)"
+     ],
+     "heavyShadows": 1,
+     "softShadows": 0,
+     "shadowSamples": [
+      "rgba(0, 0, 0, 0.5) 0px -8px 32px 0px"
+     ],
+     "glass": 1
+    },
+    "chips": {
+     "count": 0,
+     "hues": 0,
+     "samples": []
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 0,
+     "tabularShare": null,
+     "kpiMax": null
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.24,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      12,
+      13,
+      15,
+      16
+     ]
+    },
+    "title": {
+     "text": "Medan Transit 3D",
+     "size": 15,
+     "top": 28
+    },
+    "colourShare": 0.002
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    1,
+    0.88
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1396,
+     "screens": 1.4,
+     "words": 42,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "🧭"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 2,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "lines": 1,
+     "size": 15,
+     "font": "Inter"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15
+     ],
+     "sizeCount": 3,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 15,
+      "vw": 2,
+      "font": "Inter",
+      "text": "Medan Transit 3D"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.13,
+     "centerShare": 0.51,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#090d16",
+     "bodyBgHsl": {
+      "h": 222,
+      "s": 0.42,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#f8fafc",
+       "share": 0.41
+      },
+      {
+       "color": "#94a3b8",
+       "share": 0.27
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.18
+      },
+      {
+       "color": "#000000",
+       "share": 0.08
+      },
+      {
+       "color": "#38bdf8",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f8fafc",
+      "hsl": {
+       "h": 210,
+       "s": 0.4,
+       "l": 0.98
+      },
+      "fg": "#0f172a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 29,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Semua"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 1,
+     "shadowSamples": [
+      "header.top-bar → rgba(0, 0, 0, 0.4) 0px 8px 32px 0px",
+      "button#btn-compass.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-3d.fab-btn.is-active → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-gps.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#bottom-sheet.bottom-sheet 520px",
+      "div#corridor-pills.corridor-pills 520px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 7,
+     "roundedBoxes": 1,
+     "boxRadius": 24,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 47,
+     "floatingPill": true,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1396,
+    "margins": {
+     "left": 92,
+     "right": 14
+    },
+    "sections": [],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Medan Transit 3D",
+      "size": 15,
+      "top": 28,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 180,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "dark": true,
+    "ground": "#090d16",
+    "sidebar": null,
+    "topbar": null,
+    "canvas": {
+     "left": 0,
+     "right": 0
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 2,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 1,
+     "firstScreen": 1,
+     "ragged": [],
+     "voids": [
+      {
+       "gap": 362,
+       "at": 1034,
+       "panel": "ARMADA BEROPERASI (0)"
+      }
+     ]
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 1,
+     "radii": [
+      [
+       24,
+       1
+      ]
+     ],
+     "heavyBorders": 1,
+     "borderSamples": [
+      "#ffffff on #090d16 (19.43:1)"
+     ],
+     "heavyShadows": 1,
+     "softShadows": 0,
+     "shadowSamples": [
+      "rgba(0, 0, 0, 0.5) 0px -8px 32px 0px"
+     ],
+     "glass": 1
+    },
+    "chips": {
+     "count": 0,
+     "hues": 0,
+     "samples": []
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 0,
+     "tabularShare": null,
+     "kpiMax": null
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.24,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      12,
+      13,
+      15,
+      16
+     ]
+    },
+    "title": {
+     "text": "Medan Transit 3D",
+     "size": 15,
+     "top": 28
+    },
+    "colourShare": 0.004
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 1,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 1160,
+     "screens": 1.4,
+     "words": 42,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [
+      "🧭"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 3.8,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "h1": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "lines": 1,
+     "size": 15,
+     "font": "Inter"
+    },
+    "headings": [],
+    "headingSummary": {
+     "count": 0,
+     "maxLines": 0,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      15
+     ],
+     "sizeCount": 3,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 15,
+      "vw": 3.8,
+      "font": "Inter",
+      "text": "Medan Transit 3D"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.13,
+     "centerShare": 0.51,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#090d16",
+     "bodyBgHsl": {
+      "h": 222,
+      "s": 0.42,
+      "l": 0.06
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#f8fafc",
+       "share": 0.41
+      },
+      {
+       "color": "#94a3b8",
+       "share": 0.27
+      },
+      {
+       "color": "#fca5a5",
+       "share": 0.18
+      },
+      {
+       "color": "#000000",
+       "share": 0.08
+      },
+      {
+       "color": "#38bdf8",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f8fafc",
+      "hsl": {
+       "h": 210,
+       "s": 0.4,
+       "l": 0.98
+      },
+      "fg": "#0f172a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 29,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Semua"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 1,
+     "shadowSamples": [
+      "header.top-bar → rgba(0, 0, 0, 0.4) 0px 8px 32px 0px",
+      "button#btn-compass.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-3d.fab-btn.is-active → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px",
+      "button#btn-gps.fab-btn → rgba(0, 0, 0, 0.35) 0px 4px 16px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#bottom-sheet.bottom-sheet 390px",
+      "div#corridor-pills.corridor-pills 390px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 7,
+     "roundedBoxes": 1,
+     "boxRadius": 24,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 47,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 1160,
+    "margins": {
+     "left": 16,
+     "right": 14
+    },
+    "sections": [],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Medan Transit 3D",
+      "size": 15,
+      "top": 28,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 50,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 1,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "dark": true,
+    "ground": "#090d16",
+    "sidebar": null,
+    "topbar": null,
+    "canvas": {
+     "left": 0,
+     "right": -34
+    },
+    "hero": {
+     "text": "Medan Transit 3D",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 15,
+     "vw": 3.8,
+     "font": "Inter",
+     "weight": 700,
+     "tracking": 0.02,
+     "leading": 1.2,
+     "top": 28,
+     "tag": "h1",
+     "kind": "heading",
+     "align": "left",
+     "position": "left"
+    },
+    "charts": 0,
+    "layout": {
+     "panels": 0,
+     "firstScreen": 0,
+     "ragged": [],
+     "voids": []
+    },
+    "tiles": 0,
+    "panels": {
+     "count": 0,
+     "radii": [],
+     "heavyBorders": 0,
+     "borderSamples": [],
+     "heavyShadows": 0,
+     "softShadows": 0,
+     "shadowSamples": [],
+     "glass": 0
+    },
+    "chips": {
+     "count": 0,
+     "hues": 0,
+     "samples": []
+    },
+    "numbers": {
+     "cells": 0,
+     "leftAligned": 0,
+     "figures": 0,
+     "tabularShare": null,
+     "kpiMax": null
+    },
+    "rows": null,
+    "chartHues": 0,
+    "placeholders": [],
+    "type": {
+     "under13": 0.24,
+     "tiny": 0,
+     "tinySamples": [],
+     "sizes": [
+      12,
+      13,
+      15,
+      16
+     ]
+    },
+    "title": {
+     "text": "Medan Transit 3D",
+     "size": 15,
+     "top": 28
+    },
+    "colourShare": 0.008
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: 🧭",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Geist, but the page renders Inter, Helvetica Neue.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "FAIL",
+   "id": "heavy-shadow",
+   "width": 1440,
+   "message": "1 panel shadow(s) heavy enough to read as floating: rgba(0, 0, 0, 0.5) 0px -8px 32px 0px",
+   "fix": "Panels sit on the ground: separate them with a fill one step from the ground or a quiet 1px border. A shadow, if any, is under 8% black with a small blur. Real overlays (menus, dialogs, popovers) may float.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "panel-void",
+   "width": 1440,
+   "message": "1 card(s) hold a blank band inside: 337px in \"ARMADA BEROPERASI (0)\".",
+   "fix": "A card stretches to its neighbour only when it has content to fill. Keep a legend or a note directly under its chart (only an action or a total may sit at a stretched card's foot), let a short card keep its own height (align-items: start), and let a filtered block shrink to its rows."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\desktop-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\tablet-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\mobile-fold.jpg",
+   "pages": [
+    "D:\\OneDrive - Kemenkeu\\Private\\Project\\medan-transit\\.taste-skill\\before\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

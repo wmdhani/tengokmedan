@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: tengokmedan
+    runtime: python
+    plan: free
+    region: singapore
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: DISHUB_CLIENT_ID
+        sync: false
+      - key: DISHUB_CLIENT_SECRET
+        sync: false

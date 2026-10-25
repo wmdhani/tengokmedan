@@ -1,0 +1,18 @@
+{
+    "name": "Medan Transit 3D",
+    "short_name": "MedanTransit",
+    "description": "Pelacak Posisi Bus Listrik Kota Medan Real-Time 3D",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#090d16",
+    "theme_color": "#0f172a",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='128' fill='%230ea5e9'/><path d='M160 128h192c35 0 64 29 64 64v160c0 35-29 64-64 64v32a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32H224v32a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32c-35 0-64-29-64-64V192c0-35 29-64 64-64zm0 64v96h192v-96H160zm32 160a32 32 0 1 0 0-64 32 32 0 0 0 0 64zm128 0a32 32 0 1 0 0-64 32 32 0 0 0 0 64z' fill='%23ffffff'/></svg>",
+            "sizes": "192x192 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
